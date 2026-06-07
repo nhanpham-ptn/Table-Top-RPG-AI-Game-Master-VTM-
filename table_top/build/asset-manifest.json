@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aaa4768d.css",
+    "main.js": "/static/js/main.b3d7f74e.js",
+    "static/js/453.87cdad16.chunk.js": "/static/js/453.87cdad16.chunk.js",
+    "static/media/Camarilla_Logo.png": "/static/media/Camarilla_Logo.5a54dce7e7eefa2e94a5.png",
+    "index.html": "/index.html",
+    "main.aaa4768d.css.map": "/static/css/main.aaa4768d.css.map",
+    "main.b3d7f74e.js.map": "/static/js/main.b3d7f74e.js.map",
+    "453.87cdad16.chunk.js.map": "/static/js/453.87cdad16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaa4768d.css",
+    "static/js/main.b3d7f74e.js"
+  ]
+}
