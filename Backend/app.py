@@ -3,7 +3,7 @@ from Services.Characters import character
 from Services.Narrator import storytelling
 from Services.Story.Story import makeStory
 from Services.Story.Reference import reference
-
+from threading import Thread
 import json
 from flask_cors import CORS
 
@@ -36,6 +36,8 @@ def startGame():
         "message": "Welcome back, Kindred"
     })
 
+
+
 @app.route("/character", methods=[ "POST"])
 def characterCreation():
     try:
@@ -46,9 +48,6 @@ def characterCreation():
 
         with open(MEMBER_PATH, "w") as f:
             json.dump(kindred.getCharacter() , f, indent=4)
-
-        reference()
-        makeStory()
 
         return jsonify({
             "message": "Kindred registered successfully",
@@ -65,14 +64,16 @@ def characterCreation():
     
 
 
-@app.route("/loading", methods=["GET"])
+@app.route("/loading")
 def loading():
-    reference()
-    makeStory()
+    Thread(
+        target=lambda: (
+            reference(),
+            makeStory()
+        )
+    ).start()
 
-    return jsonify({
-        "lore": True
-    })
+    return jsonify({"started": True})
 
 
 @app.route("/gameplay", methods=["GET", "POST"])
