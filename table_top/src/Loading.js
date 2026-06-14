@@ -8,18 +8,24 @@ export default function Loading() {
     const navigate = useNavigate();
 
     useEffect(() => {
-    const interval = setInterval(async () => {
-        const response = await fetch("http://localhost:5000/loading");
-        const data = await response.json();
+        const loadLore = async () => {
+            try {
+                const response = await fetch(
+                    "http://localhost:5000/loading"
+                );
 
-        if (data.lore) {
-            clearInterval(interval);
-            navigate("/gameplay");
-        }
-    }, 2000);
+                const data = await response.json();
 
-    return () => clearInterval(interval);
-    }, []);
+                if (data.lore) {
+                    navigate("/gameplay");
+                }
+            } catch (err) {
+                console.error(err);
+            }
+        };
+
+        loadLore();
+    }, [navigate]);
 
     return (
         <div
