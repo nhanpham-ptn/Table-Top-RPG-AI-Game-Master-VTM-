@@ -1,6 +1,9 @@
 from flask import Flask, request, jsonify, redirect, url_for
 from Services.Characters import character
 from Services.Narrator import storytelling
+from Services.Story.Story import makeStory
+from Services.Story.Reference import reference
+
 import json
 from flask_cors import CORS
 
@@ -44,6 +47,9 @@ def characterCreation():
         with open(MEMBER_PATH, "w") as f:
             json.dump(kindred.getCharacter() , f, indent=4)
 
+        reference()
+        makeStory()
+
         return jsonify({
             "message": "Kindred registered successfully",
             "character": data
@@ -57,7 +63,17 @@ def characterCreation():
             "error": str(e)
         }), 500
     
-    
+
+
+@app.route("/loading", methods=["GET"])
+def loading():
+    reference()
+    makeStory()
+
+    return jsonify({
+        "lore": True
+    })
+
 
 @app.route("/gameplay", methods=["GET", "POST"])
 def gameplay():
