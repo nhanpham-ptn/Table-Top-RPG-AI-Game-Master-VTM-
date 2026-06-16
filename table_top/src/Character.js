@@ -187,6 +187,7 @@ export default function CharacterCreator() {
       />
 
       <select
+        placeholder="Predator type"
         className="border p-2 w-full mb-4"
         onChange={(e) => updateField("predator", e.target.value)}
       >
@@ -238,6 +239,7 @@ export default function CharacterCreator() {
       />
 
       <select
+        placeholder="Clan"
         className="border p-2 w-full mb-4"
         onChange={(e) => updateField("clan", e.target.value)}
       >
