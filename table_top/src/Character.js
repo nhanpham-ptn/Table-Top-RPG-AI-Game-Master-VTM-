@@ -106,7 +106,7 @@ export default function CharacterCreator() {
           body: JSON.stringify(character),
         });
 
-        navigate("/gameplay")
+        navigate("/loading")
 
       } catch (err) {
 
