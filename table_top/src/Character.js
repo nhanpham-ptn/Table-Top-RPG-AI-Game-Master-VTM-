@@ -23,6 +23,8 @@ export default function CharacterCreator() {
 
     ambition: "",
     desire: "",
+    conviction: "",
+    touchstone: "",
 
     clan: "",
 
@@ -224,10 +226,31 @@ export default function CharacterCreator() {
       />
 
       <input
-        placeholder="Clan"
+        placeholder="Conviction"
         className={inputStyle}
-        onChange={(e) => updateField("clan", e.target.value)}
+        onChange={(e) => updateField("conviction", e.target.value)}
       />
+
+      <input
+        placeholder="Touchstone"
+        className={inputStyle}
+        onChange={(e) => updateField("touchstone", e.target.value)}
+      />
+
+      <select
+        className="border p-2 w-full mb-4"
+        onChange={(e) => updateField("clan", e.target.value)}
+      >
+        <option>Brujah</option>
+        <option>Gangrel</option>
+        <option>Malkavian</option>
+        <option>Nosferatu</option>
+        <option>Toreador</option>
+        <option>Tremere</option>
+        <option>Ventrue</option>
+        <option>Caitiff</option>
+        <option>Thin-blood</option>
+      </select>
 
       <input
         placeholder="Age"
@@ -381,7 +404,7 @@ export default function CharacterCreator() {
         className="bg-black border border-green-500 text-green-400 px-2 py-1 hover:bg-green-500 hover:text-black"
         onClick={() => updateDisadvantage("new_disadvantage", "")}
       >
-        + Add Advantage
+        + Add Disadvantage
       </button>
 
       {Object.entries(character.disadvantages).map(([name, val]) => (
@@ -410,6 +433,8 @@ export default function CharacterCreator() {
           />
         </div>
         ))}
+
+        <div></div>
 
         <button
           onClick={submitCharacter}
