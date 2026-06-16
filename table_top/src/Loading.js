@@ -16,7 +16,7 @@ export default function Loading() {
 
                 const data = await response.json();
 
-                if (data.lore) {
+                if (data.started) {
                     navigate("/gameplay");
                 }
             } catch (err) {
