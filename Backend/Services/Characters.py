@@ -8,6 +8,9 @@ class character():
         self.generation = characterSheet["generation"]
         self.ambition  =  characterSheet["ambition"]
         self.desire  =  characterSheet["desire"]
+        self.conviction  =  characterSheet["conviction"]
+        self.touchstone  =  characterSheet["touchstone"]
+
 
 
         self.humanity = 10
@@ -86,6 +89,8 @@ class character():
             "generation": self.generation,
             "ambition": self.ambition,
             "desire": self.desire,
+            "conviction": self.conviction,
+            "touchstone": self.touchstone,
 
 
             "humanity": self.humanity,
