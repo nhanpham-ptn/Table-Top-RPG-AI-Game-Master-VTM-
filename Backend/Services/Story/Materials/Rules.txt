@@ -1,0 +1,565 @@
+--- CHUNK 0 ---
+Contents
+How this Document Works Hunger and Blood Vampire Disciplines
+e = Animalism
+e Feeding . Auspex
+Basic Systems e Rouse Checks ;
+e  Celerity
+e Dice Pools ¢ Resonance e Dominate
+e Successes e Blood Potency © Fortitude
+© Hunger Dice ¢ Torpor e Obfuscate
+© Automatic Wins * Predator Types e Potence
+e Willpower Rerolls e Presence
+e = Checks Frenzy e Protean
+e Contests e To Resist ¢ Blood Sorcery
+° Effects of Frenzy © Thin Blood Alchemy
+Character Creation © Types of Frenzy
+Conflict and Combat
+e Basic Conflict Mechanic
+e Advanced Combat
+Vampire Drawbacks
+e = Daylight
+e Fire
+e Others
+How this Document Works
+Just the Rules
+e The goal of this document is to cut out all fluff and present only the game rules.
+e Language used is straight forward and methodical.
+e It is intended as a reference for use at the table. It does not replace the official core rule book. Page references for the core book are given in most sections, in case
+you want to read the full official rule.
+e Landscape orientation has been chosen for ease while viewing on a screen.
+Dice Pools Successes Willpower Rerolls
+. . . e Successes are rolls of 6 or higher. AO is a e = (Pg. 122-123). You can take 1 Superficial
+e You will create a dice pool of a certain . .
+ber of d10s and roll th success. Willpower damage to reroll up to 3 dice
+number o s and roll them. ;
+heh twill llyb d b e A pair of two 0’s is a Critical Success. This that came up failures.
+e .
+ce poo " usualy © nt . . ll counts as 4 successes, not just 2 successes. e You cannot reroll any Hunger dice.
++
+
+° loo shenah me i" it 5 i ° e Count the number of successes. Try to get a e You cannot use this option when rolling a
+
+0 im in an 6 ie nt vale v number of Successes equal to or greater Tracker (e.g. Willpower or Humanity).
+i ill, you wee
+additional nenalties to that pool than the Difficulty set by the Storyteller.
+
+Attribute + Discipline (e.g. Charisma e The Margin is (Successes minus Difficulty). Checks
++ Dominate may be used to try This is used to increase effect, e.g. do extra e (Pg. 123). (E.g. a Rouse check). Roll a single
+mind control someone). damage. (pg. 121). d10. A 6 or higher is a success.
+
+o Attribute + Attribute (e.g. Resolve + ° ee alee eee oto Win At e You cannot use Willpower rerolls on
+Composure may be used to resist e storyteller may Still allow you to Win Checks. Automatic wins do not apply to
+some Disciplines). A Cost. They may offer you to take damage Checks.
+
+© Tracker (Health or Willpower). Use or suffer a fictional setback in exchange for
+the number of undamaged blocks vnstesd. (on 121) opt to accept failure Contests
+you have (e.g. if you have 5 e (Pg, 119). If you are competing with
+maximum Willpower, but have 2 Hunger Dice another character, the Storyteller may call
+Superficial damage, you will roll 3 * Some of the dice in your pool will be for a Contest instead of a roll against a
+dice). Use a minimum of 1 dice. Hunger dice. They should be a different static Difficulty.
+
+¢ Easy or difficult situations may add or colour. If you have a pool of 5 dice and your © Both you and the other character will roll
+subtract dice. Or they may alter the Hunger is currently 2, you will roll 3 Normal your pools and count successes. The
+Difficulty. Dice and 2 Hunger Dice. character with the most successes wins.
+e ASkill Speciality gives +1 Dice. (Pg. 118). e = Taking Half. (Optional) A Storyteller may
+¢ Specialised equipment may give +1 Dice Automatic Wins choose to not roll the NPCs pool, and rather
+with Storyteller approval. (Pg. 119). ¢ (Pg. 120). Optional Rule. To speed up play, halve it. This becomes a static Difficulty for
+e Teamwork. When multiple characters are the Storyteller may allow you to auto- the Contest.
+working together, roll the Pool of the succeed ona roll if you have double the
+character with the most dice. Each helper number of dice in your pool than the
+who has a dot in the Skill being used adds Difficulty.
++1 Dice. (Pg. 122). e This never applies in combat.
+Character Creation
+Pg.
+
+--- CHUNK 1 ---
+ 136.
+Phase Two - Vampire (Optional) Phase Three - Time
+Phase One - Mortal L._ Pick Clan. Passes
+1 Attributes. 2. Disciplines. ; 1. GM will tell you how old your vampires are.
+a. Pick one at 4. a. Choose 2 from your Clan. 2 dots in one, a .
+. . Your Generation is determined.
+b. Pick three at 3. 1 dot in the other. ae 2. You may have additional XP to spend.
+c. Pick four at 2. b. (If Caitiff). Choose any 2 disciplines. 2
+d. Pick one at 1. dots in one, 1 dot in the other.
+2. Calculated attributes. c. (Thin Blood). No disciplines.
+a. Health = Stamina + 3. 3. Predator.
+b. Willpower = Composure + Resolve. a. Pick a type from pg. 175.
+3. Skills. Pick one package. b. You gain 1 Speciality.
+a. Jack of All Trades. One Skill at 3; eight c. You gain 1 dot ina Discipline.
+Skills at 2; ten Skills at 1. d. Apply any Advantages or Flaws.
+b. Balanced: Three Skills at 3; five Skills at 4. Advantages.
+2; seven skills at 1. a. Spend 7 points.
+c. Specialist: One Skill at 4; three Skills at b. Take 2 dots of Flaws.
+3; three Skills at 2; three Skills at 1. c. (Thin Blood). Must take 1-3 Thin Blood
+4. Specialities. merits and same number of flaws.
+a. Pick one. 5. Convictions.
+b. Geta free speciality for Academics, a. Pick 1-3 Convictions (pg. 172).
+Craft, Performance and Science. b. Create a Touchstone NPC for each
+Conviction.
+c. Humanity = 7.
+Feeding, pg. 211. Action Description Rouse
+e You must kill a mortal to reduce Hunger past base level. (See table on pg. Check
+216). Heal Superficial e See table on pg. 216 to see how much is 1
+e The Kiss is euphoric feeling in a victim while feeding, and foggy memory of Damage healed at your Blood Potency.
+what happened. Heal Aggravated e When waking, make 3 Rouse checks (in 3
+e Table on pg. 212 shows how much Hunger is slaked from different types of Damage addition to the normal waking rouse check).
+victims, e.g. Animals. You heal 1 Agg and 1 crippling injury. Pg.
+e Animals and Blood Bags, slake less and less Hunger as your BP increases. BP 219.
+3+ can no longer feed from animals or blood bags. © Maximum 1 Agg per night.
+e Vampires, regain 1 Hunger for each 1 Hunger inflicted on target. If target BP is * If Rouse causes Hunger > 5, then torpor
+2 higher than yours, then double Hunger regained. If target BP is 2 less than instead of frenzy.
+yours, then half Hunger regained. (Pg. 213). Blood Surge e Can be Physical, Social or Mental. Number | 1
+(Boost a Stat) of dice depends on Blood Potency. Can only
+Rouse Checks, pg. 211. use once per roll, and only applies to a
+e Roll 1 dice, 5 or less means Hunger +1. single dice roll (but can apply to Willpower
+* Hunger is applied AFTER the effect activates. rerolls).
+¢ High Blood potency can roll more than 1 dice and take the best result. * Cannot use for Humanity checks.
+¢ The effect you were attempting to activate always works, regardless of if the * Cannot use for Willpower checks, or any roll
+. that applies to multiple scenes.
+Rouse passes or fails. (Pg. 217). .
+. a . e Cannot use in One Roll Combat.
+¢ There is no limit to how many different Rouse checks you can make per turn an
+. e Do not apply to automatic wins (pg. 120,
+(pg. 219), but only one Rouse for any type of action (e.g. you can heal e.g. If dice poll is double the difficulty), or
+Superficial damage AND make yourself stronger, but you can't do one of Take Half
+those multiple times). Wake Up At Sunset |e If Rouse causes Hunger > 5, then torpor 1
+¢ But you can only activate one Discipline per turn, but can have many running instead of frenzy.
+simultaneously (pg. 219). Blush of Life Heartbeat, warm flesh, colour in flesh, sex. 1
+e At Hunger 5, you can no longer choose to Rouse. If forced to, you make Diff 4 Would pass a basic medical check. Can use
+Frenzy check (pg. 211). touch screens. Can consume food and keep it
+down for 1 hour. Lasts for whole night.
+Activate a Varies
+Discipline
+Resonance, pg. 212. Melancholy. e passe rane. Revol tests inet rene youot
+ailures of the vessel, but not 1's on Hunger dice.
+e After
+
+--- CHUNK 2 ---
+ 15 mins out of the body, Resonance is lost (e.g. For blood bags). Some P . . . Bs .
+tore it Disciplines e Nostalgic. +1 dice for checks with a historic period
+. Con be used inthin Blood alchemy Fortitude from the vessels life. +3 dice to Memoriam pool on
+. ’ that subject.
+¢ You can guess Resonance by observing a mortal and roll Resolve+Insight. Obfuscate. . Recalling +1xp towards Fortitude or Obfuscate
+¢ GM can roll 2d10 on table on pg. 228 to randomly determine Resonance. Sincle un le use ne .
+¢ You can tweak a mortals Resonance by roleplaying scenes that evoke an 6 ¥ F
+oo . : . F , calm, e = Chill. +2 dice to resist Frenzy.
+emotion in them. You can increase intensity, or change to a different . _ . .
+. . 1 " . . apathetic, e Comfortably Numb. No pain, no negative effects
+Resonance. Some immoral vampires may "farm" mortals with certain : F F .
+sentimental. from it, both physical and social.
+Resonance through years of abuse. . : .
+* Can be temporary in a mortal, or long term e Eating Your Emotions. Can eat and digest food
+* Temperaments... Phlegmatic. ° GivenU s slake +1 Hunger from next Phlegmatic
+e Fleeting. Has flavour, but no mechanical benefit. But tasting it can be a vmeel ac 1if not Phiegmatic 8
+prerequisite for learning a Discipline. Disciplines 4 : .
+e Intense. +1 dice pool for those Disciplines. Auspex, Dominate. ° Ne fa wnen alone, for 1 scene.
+e Acute. (Dyscrasia). +1 dice pool for those Disciplines AND an ability from table P 8 ; ; .
+below e  Procrastinate. +1 WP if you delay something
+¢ Benefits last until (1) next feed or, (2) Hunger 5. important by 1 day. Once per session. . .
+Vibe Dyscrasias, pg. 230-231 | e Reflection. +1xp towards Auspex or Dominate. Single
+: 2s : use only.
+¥, violent, e Bully. +1 damage to weaker foes, both social and | happy, + Contagious Enthusiasm. Touch a target's skin, get +3
+passionate physical combat. : . sontagious enthusiasm . oe
+: ’ . . addicted, flighty, dice to attempts to convince them. Rules similar to
+envious. e Cycle of Violence. Slake +1 Hunger next feeding from age .
+- | . enthusiastic. Dominate.
+next Choleric vessel, and -1 if not Choleric. e Smell Game. +3 dice to try locate other Sanguine
+Choleric. e Envy. +1 damage against more attractive foes, both . vessels. : y 8
+social and physical combat. Sanguine. e =High on Life. Can Blush of Life without Rouse check
+Disciplines ° et led. Reroll 1 roll when in ideological combat, Disciplines e Manic High. +1 dice to all tests until you next fail.
+Celerity, Potence. ut not 1's on Hunger dice. Thereafter -2 to all tests.
+e Vengeful. +2 dice against a target the vessel had Blood Sorcery, .
+vengeful thoughts against Presence. e True Love. Slake +1 Hunger when feeding from
+; vessel's true love. You can use Auspex to see
+e Vicious. Reroll Intimidation, but not 1's on Hunger j P
+dice. through the true love's eyes.
+e Driving. +1xp towards Celerity or Potence. Single use ° stirrin 1xp towards Blood Sorcery or Presence
+only Single use only.
+, intellectual, e In Mourning. +2 dice to Remorse checks. Animal Blood we vines ‘i
+grounded, e Lost Love. +1 dice to resist seduction or Presence. nimalism, Frotean.
+depressed. e Lost Relative. Slake +1 Hunger when feeding from
+members of your mortal family.
+Blood Potency, pg. 216. Blood Bond, Pg. 235.
+e +1 BP every 100 years active (pg. 215). Cannot go above maximum for your e Requirements
+Generation (see table pg. 214). © 3 drinks required, on separate nights. < 1 year between drinks.
+e  -1 BP every 60 years in torpor. Cannot go below minimum for your © Works on mortals and kindred, even kindred of lower generation.
+Generation (see table pg. 214). © Must drink from the vein.
+e Table pg. 216 has full break down. = Exception: Stored blood can still sustain ghouls, but not blood
+bond them (pg. 236).
+Torpor, Pg. 223. © Maximum number of thralls equal to your Blood Potency (pg. 236). If
+* Entering torpor you exceed this, then the oldest thrall is released after 1 week.
+oO If you attempt to awaken at suns
+
+--- CHUNK 3 ---
+et, at Hunger 5, and fail the Rouse check. * Effects . .
+© If your Health track is full of Aggravated damage. © Asense of loyalty or infatuation. Attempt to please the master, wary
+© You can do it voluntarily. of angering them. .
++ When in torpor = Roll Resolve+intelligence vs Bond Strength. Make a check every
+© Cannot use any Disciplines turn if regnant is present, otherwise once per scene.
+© Cannot react in any way. ° shou. t (Agei ill catch ickly if ghoul st havi
+© Your body automatically attempts to heal itself by making Rouse checks ono age. Being wi catch Up quickly If gnoul stops having
+each night access to vitae).
+© Unaware of surroundings "= Gain 1 dot of the regnant's highest Discipline, and one Level 1
+oo. : . power.
+¢ Time in torpor depends on Humanity. See table on pg. 241. secs
+e If you were staked at time of entering torpor, then removing the stake * Some abilities (e-8. Blood Sorcery draughts) allow ghouls
+awakens you immediately to use higher level Discipline powers. They cannot Rouse,
+*  Awaking from torpor . and instead take Aggravated damage to activate.
+6 Hue eris 5 feng is likel = Wounds heal twice as fast, unless from fire.
+8 : Y ye oe ce e System
+© Roll Resolve+Awareness at Diff 2 whenever a victim enters your vicinity. © Gain +1 Blood Bond Strength each drink to max 6
+oO If Hunger falls to 4 or less, the frenzy ends (unlike normal Frenzy rules). o 4 al d Bond St th Bt h ve t dri ., :
+© You can awake a vampire in torpor by feeding them vampire blood of a ~* Blood Pond =treng ‘every montiwi ou rinking. .
+BP greater than theirs © If Blood Bond Strength is reduced to zero, it fades. GM could require
+, a defiance check (above) once per session to do this.
+e Note
+© All vampires have at least a level 1 Blood Bond with their sire, from
+the act of the Embrace, for the first year.
+© After level 3 Blood Bond, you are immune to other Blood Bonds.
+Predator Types, Pg. 175-178.
+e Decide the typical kind of hunting you use. You gain the benefits described,
+a free skill speciality, a free Discipline dot, and a free Advantage dot.
+Frenzy
+Pg. 219.
+Types Of Frenzy
+
+To Resist ° Fury.
+¢ Roll Willpower + (Humanity / 3 round down) against GM difficulty. (A table on o Triggered by: (insults, humiliation)(aggression).
+
+pg. 243 does the /3 calculation for you). o Difficulty of Resist Test: table on pg. 220.
+e Takes 1 turn to resist, unless Critical Success rolled. © Goal: tear the cause of provocation to pieces, ignoring anyone nearby.
+e Ride The Wave - can choose not to roll to resist. = After killing them ... Make Diff 3 Willpower test (or diff 5 if other
+
+enemies alive) to end Frenzy.
+
+Effects Of Frenzy * Hunger.
+¢ "Lose all capacity for rational thought, driven solely by rage, starvation or © Triggered by: (temptation) (failing Rouse check at Hunger 5).
+
+panic." Never subtle. o Difficulty of Resist Test: table on pg. 220.
+* Becomes controlled by Storyteller. o Goal: seek human blood from closest source.
+* Immune to health penalties, except mutilation. o Ends when reaching Hunger 1.
+* Can only use physical Disciplines: Celerity, Fortitude, Potence. ° Terror.
+¢ Resist mental Disciplines with +3 dice: Dominate, Presence. 0 Triggered by: (self preservation)(confronted by open fire or
+* Canspend 1 Willpower to take control for 1 turn. Cannot use Willpower to sunlight)(serious damage to self).
+
+reroll. o Difficulty of Resist Test: table on pg. 220.
+* Cannot gain Compulsions. © Goal: Flee the danger, without regard.
+* Cannot be provoked to Frenzy. e Ends when scene ends or danger is gone.
+Basic Conflict, Pg. 124-125 One Sided Attack (eg. shoot with gun).
+* Players declare their intent for the next turn. . veNilloower) success is applied as damage to defender (either Health
+¢ GM declares intent of opponents . : .
+* GM decides what pools will be rolled. e If defender wins, nothing extra happens.
+° we “Close combat for those already engaged, then Ranged, then Close Iwo Sided Attack (eg. Brawl).
+combat newly besun, then oer hee else Be
+
+--- CHUNK 4 ---
+d, ¢ Margin of success is applied as damage to loser (either Health or Willpower).
+. y “8 a v 8 on gs e Tie means both parties take damage as if margin was 1.
+© Ties, use Dex+Wits pool size (don’t roll). Or higher skill first. © Make only one roll to represent the conflict, not two
+e Attacker and Defender roll together, compare successes. y P ’ ;
+© One vs Two Sided?
+= One sided means defender cannot fictionally harm attacker. Sen eanged attacks
+. Aeunteht where both parties are exchanging shots could be a © Dexterity + Athletics is what defender with cover rolls. -2 if no cover. +2
+. Ifyou choose to not fight back and be fully defensive, then what if superior cover.
+y 8 F y : ’ . ¢ Repeated Defenses, eg. Outnumbered and attacked several times in one
+would normally be Two Sided becomes One Sided (eg. Dodging in round
+a knife fight). © Roll 1 fewer dice with each successive defensive roll.
+e¢ Multi attack, pg. 125.
+© You can attack 2 enemies by splitting your dice pool.
+e Damage, pg. 126.
+oO. Fight: Successes margin + weapon damage.
+© Social: Successes margin + audience circumstances pg. 305.
+Movements. Pg. 298.
+Advanced Conflict, Pg. 295 ¢ Not normally tracked in detail (ie. We don't do 5ft squares). GM can consider
+¢ Each of these rules are optional, and can be included or not separately. movement as a Minor Action (see above).
+¢ Or it could be treated as a Maneuver (see above).
+Three, Two, Done. Pg. 295. .
+¢ Don’t allow conflict to drag on. For drama, after 3 turns, GM can fast forward One Roll Conflicts. Pg. 298. ;
+and decide outcome. Can require negotiation between GM and player. * You can abstract a whole fight.
+e (I guess this requires a good trust relationship between players and GM). * GM sets difficulty. oo ;
+¢ GM can reward players who accept a loss, eg. With Willpower recovery or a ° Opposition Is significantly weaker = Diff 2.
+background dot. fe) Opposition is equal = Diff 4.
+¢ Resolving the conflict could simply mean launching a new fictional scene. © Opposition Is much stronger = Diff 6. ;
+¢ Or, GM can call for One Final Roll to decide the outcome. GM sets a difficulty o Add +1/-1 Diff if players have tactical disadvantage/advantage.
+based on how conflict has been going so far. fe) Add +1/-1 Diff if players have superior Disciplines or supernatural
+© Diff 3, if PCs have won all 3 turns. abilities. oa. . on
+© Diff 4, if two out of three. e Each player rolls a conflict dice pool, attempting to beat the set difficulty.
+Oo Diff , if one win only. Count how many players do it.
+© Diff 6, if losing obviously. oO If 50% of player group succeeds, then the fight is won.
+oO Each PC takes damage equal to (2xDiff) minus (their successes).
+Advanced Conflict Options. Pg. 296. = Cannot be reduced by armor or Fortitude.
+e Advance. Especially in Social Conflict, a win can mean something other than "Can be Superficial or Aggravated, depending on abilities of
+Willpower damage to opponent. Could be accumulating successes for a future enemy. (Do not halve Superficial).
+test. = Optional: Instead of wounds, GM can allow you to take damage
+e¢ Maneuver. Instead of damage, a winner could choose to accumulate bonus in the form of Stains.
+dice to a future test. Eg. Flanking.
+¢ Block. Instead of damage, a winner could aim to prevent a certain course of
+action altogether. Eg. Block an exit, obstruct a law.
+e All Out Attack. You can get +1 damage if you accept incoming attacks get +1
+dice (two sided), or no defense roll whatsoever (one sided).
+e All Out Defense. You can get +1 defense if you take no action whatsoever
+except defensive. In some cases (eg. Hiding totally behind a wall), it can mean
+you cannot be hit at all.
+e¢ Minor Actions. GM can allow you to do something quick, eg. Draw a weapon,
+as part of your action, with a small penalty to dice pool. GM decides what is
+reasonable.
+Advanced Physical Conflict. Pg. 300. © -2 Dice if you are in melee, attempting to target someone outside of
+e Initiative. Composure+Awareness. Do not roll, count d
+
+--- CHUNK 5 ---
+own through the the melee.
+Initiative scores. oO -2 Dice if you are in melee, using a gun bigger than a handgun.
+© Optional: GM can substitute other abilities like Dexterity in some © -2 Dice if spend a minor action to reload.
+situations. © Optional: Attacker with highest rate of fire, or who fires most bullets
+© Ties - PCs go before enemies, vampires before mortals, highest fictionally, +1 Dice.
+Composure first. If still in dispute, then roll a luck dice. = Reloading. GM can require 2 dice minor action to reload after 1,
+e Surprise. Usually roll Dexterity+Stealth vs Wits+Awareness. 2, or 3 rounds of a gunfight (depending on ammo capacity).
+oO First attack is made with only Diff 1. ¢ Called Shots, pg. 302-303.
+¢ Close Combat. oO. After declaring your intent, GM declares difficulty which will be -X
+© Attacker => Unarmed fighting = Strength+Brawl. One handed melee = Successes.
+Dexterity+Melee. Two-handed melee = Strength+Melee. Holding a gun = -2 usually.
+= Strength+Firearms (pg. 302). = -1 to shoot car tyres.
+© Defender => Can use above skills, or Dexterity+Athletics if only dodging. = -4 to shoot fuel line of a plane taking off.
+© Optional: Weapon with greater reach can get +1 Dice. © GM decides what happens on a success. Not greater damage, but some
+© Both fighters roll their pools and compare results. story effect.
+= Damage is Successes Margin + Weapon. See table on pg. 304 for ¢ Crippling Injuries, pg. 303.
+example weapons. oO If you take damage while Impaired, then death spiral. Roll 1d10+Agg
+© Grappling, pg. 301. Damage on table.
+= First Round. Strength+Brawl, resolve as above. Instead of
+damage, target is restrained and cannot move or attack others. Advanced Social Conflict. Pg. 304.
+They can retry grapple. ¢ Decide the stakes before you begin. What will be won, or lost.
+= Later Rounds. Roll again. Winner can choose; ¢ These rules assume an active opponent. Do not use these rules for fast
+e Damage the foe, using margin of successes as normal. talking, oratory to an audience, seduction.
+e Bite foe, 2 Agg damage. ¢ Decide on the dice pools (Stat+Skill) that will be used. Attacker and Defender
+e Hold in place. do not need to use same pool.
+e Escape grapple. e Initiative
+e Ranged Combat. o Not normally needed. But Wits+Etiquette could be used. Could vary by
+oO Attacker => Composure+tFirearms. A quickdraw test could be situation. Pg. 305.
+Dexterity+Firearms. But Wits+Firearms or Resolve+Firearms are also e Resolution
+possible (see example pg. 301). © You can decide to concede without rolling. This can have better story
+oO Defender => Dexterity+Athletics. (-2 if no cover). Various cover options consequences than a failure.
+on pg. 302. Unaware target does not roll, only Diff 1. ° Roll pools, compare successes.
+© Damage is Successes Margin + Weapon. See table on pg. 304 for © Willpower damage is Successes Margin + Audience modifier (see table
+example weapons. pg. 305). Note that damage can be ignored, and merely comparing
+e Ranged Combat Modifiers, pg. 302. successes over a few rounds can determine the outcome of the
+© -2 Dice if outside normal weapon range. conflict.
+o Winner achieves the stakes already agreed upon.
+Vampire Drawbacks
+Daylight Fire, Pe. 221. Extreme Cold, Pg. 221.
+e = Inflicts Aggravated damage every turn of «One hour exposure to <-30 degrees, make
+Daytime Activity eee eum datnage for hand mative 3+/turn Stamina+Resolve at Diff 2. Test every hour.
+e To awake during the day, roll Humanity at Diff damage for inferno. On a failure, you become semi-frozen, you
+3 to 5. See paragraph on pg. 219 for stimuli. * Vampires do not burn faster than mortals. cannot move and can only use mental
+© You can act for 1 scene. Thereafter Disciplines.
+need Diff 3 Humanity rolls to stay e After an hour of being semi-frozen, you
+awake longer. freeze solid and enter torpor.
+e Your dice pool is capped by your Humanity
+during the day. Pg. 219.
+Sunlight, Pg. 221.
+e = Inflicts (Bane Severity) Aggravated damage
+each turn exposed to direct su
+
+--- CHUNK 6 ---
+nlight. See pg.
+216 for Bane Severity.
+e Obscured sunlight, e.g. Curtains or heavily
+overcast, reduces frequency of damage.
+Vampire Disciplines
+Animalism, Pg. 245 Auspex, Pg. 249
+Bond Famulus. 3 Rouse feeds. Chat+AnimalK. Mental link with animal Heightened Senses. +Auspex to all perception. Free.
+ghoul. Sense the Unseen. Defeat Obfuscate and concealing spells or
+Sense the Beast. Free. Sense hostility, or Beast (or other abilities.
+supernatural).
+00 pamenonstnteteravesyuds
+Feral Whispers. 1 Rouse per type of animal. Two way talk with
+oe ee ace ermey th Scry The Soul. See auras, emotional state, Resonance, supernatural
+type, diablerie.
+Animal Succulence. Free. -1 Hunger when feeding from animals. Can Share The Senses. Piggy back on senses of a mortal or another
+kill your familiar to get -4 Hunger and +2 to a stat. vampire. Target is unaware.
+Quell the Beast. 1 Rouse. Stare down, causes mortals to be
+Unliving Hive. (Obfuscate 2). Free. All animalism powers now work 00000 | Clairvoyance. Close your eyes and learn things about a large area
+on insect swarms. Gives bonus to intimidation, or distractions in around you (city-block).
+combat. Possession (Dominate 3). Take over body of a mortal. Can go out in
+OOOO | Subsume the Spirit. 1 Rouse. Free for famulus. Move consciousness daylight. ;
+into an animal. Can go out in daylight. Telepathy. Read minds.
+00000 | Animal Dominion. 2 Rouse. Command dozens of animals to spy or
+fight.
+Drawing Out The Beast. 1 Rouse. When you are about to Frenzy, you
+can make another person nearby Frenzy instead.
+Celerity, Pg. 252 Dominate, Pg. 256
+fe) Cat's Grace. Free. Auto-succeed at balance checks. e Requires eye contact. ; ; ;
+Rapid Reflexes. Free. Can use defense pool against firearms. Can e When used on lower generation, target can spend Willpower to resist
+take a free minor action (e.g. Draw weapon) each turn. automatically. ; |
+e If you totally fail the roll, you cannot retry for the session.
+oo Fleetness. 1 Rouse. +Celerity to any DEX check, including Dodge e Can trigger Humanity checks.
+(once per turn). Storyteller interprets super speed. e House Rule: If you fail to Dominate someone, the target knows you tried
+something.
+0O0O Blink. 1 Rouse. Move 50m then act. :
+Traversal. 1 Rouse. Can move across water or vertical surfaces. Oo Cloud Memory. "Forget" last few minutes. Free. No roll vs mortals.
+— (Charismat+Dominate vs Wits+Resolve).
+0000 Draught Of Elegance. 1 Rouse. Feed your vitae to another, they gain Compel. Free. A single action command, short sentence. Must be
+Celerity dots equal to half yours. able to complete in 1 turn. No roll vs mortals. (Charisma+Dominate
+Unerring Aim. (Auspex 2). 1 Rouse. The target of your ranged attack vs Intelligence+Resolve).
+cannot dodge.
+oo Mesmerize. Complex commands, requires gaze. No conditional
+OOOOO Lightning Strike. 1 Rouse. The target of your melee or brawl attack commands.
+cannot dodge. Dementation. (Obfuscate 2). Insert nasty words into a conversation,
+Split Second. 1 Rouse. Super speed, open to interpretation. causing Willpower damage and eventually Impaired.
+000 The Forgetful Mind. Rewrite whole swaths of memories.
+Submerged Directive. Mesmerize can now plant hypnotic
+suggestions that remain dormant for years.
+0000 Rationalize. Victims of Dominate now believe their actions were of
+their own free will.
+OOOOO | Mass Manipulation. Issue commands to groups of mortals or
+vampires.
+Terminal Decree. Your commands can now be suicidal.
+Fortitude, Pg. 258 Obfuscate, Pg. 261
+O Resilience. Add blocks to your Health track ¢ Actions like talking, picking pockets, attacking can break it. Does not work
+Unswayable Mind. +Fortitude to resist intimidation, seduction or against cameras.
+supernatural mind control.
+(6) Cloak of Shadows. Free. Stand still, undetectable.
+oo Toughness. Fortitude dots are now armour. Does not help against Silence Of Death. Free. Total silence. Does not work against
+banes like fire. machines.
+Enduring Beasts. (Animalism 1). Your animal ghouls are 
+
+--- CHUNK 7 ---
+tougher, add
+blocks to Health track. fofe) Unseen Passage. 1 Rouse. Move, undetectable. Cannot make noise.
+(efele) Defy Bane. Improved resistance to fire and sunlight. Fortitude Agg 000 Ghost In The Machine. Free. Recorded images of you are fuzzy.
+Damage becomes superficial. Mask Of A Thousand Faces. 1 Rouse. Can interact with people, and
+Fortify The Inner Facade. Your aura and mind cannot be read. be forgotten afterwards. Appear as nondescript stranger.
+0000 Draught of Endurance. Feed your vitae to another, they gain 0000 ss Conceal. (Auspex 3). 1 Rouse. Can hide an object, car or small house.
+Fortitude dots equal to half yours. Vanish. (pre-req Cloak of Shadows). Free. Can activate Cloak Of
+Shadows or Unseen Passage even while being observed.
+OOOOO | Flesh of Marble. Ignore one source of damage every turn.
+Prowess from Pain. Ignore wound penalties, and boost a stat by the OOOOO | Cloak The Gathering. +1 Rouse. Obfuscate works on Wits number of
+amount of damage already taken. friends.
+Imposters Guise. (pre-req Mask Of A Thousand Faces). 1 Rouse.
+Disguise as a specific individual.
+Potence, Pg. 264 Presence, Pg. 266
+(e) Lethal Body. Free. Unarmed attacks to Agg damage to mortals, and [e) Awe. Free. Add Presence to any persuasion or performance check.
+ignore Potence armour. Daunt. Free. Uses Presence to repel or threaten. To attack me
+Soaring Leap. Free. Jump 3xPotence meters vertically. Or 5xPotence requires a Diff 2 Resolve+Composure roll. Add Presence to
+horizontal. intimidation. Cannot be used at same time as Awe.
+oO Prowess. 1 Rouse. Add 1xPotence to unarmed damage and any oo Lingering Kiss. When you bite, it is super ecstacy. Can cause
+Strength feat. And add Half x Potence to melee damage. addiction.
+0O0O Brutal Feed. Free. Savage Kiss. Bite and then feed Potence worth of 000 Dread Gaze. Display fangs, cause mortals to freeze in fear, vampires
+Hunger per turn. Does Agg to mortals. can be forced to spend Willpower. Even on a failure, mortals are
+Spark of Rage. (Presence 3). 1 Rouse. Add Potence to social moves unable to attack. The degree of success determines duration.
+that incite violence. Can try provoke another vampire to Frenzy. Entrancement. Force love in a single target for hours.
+Uncanny Grip. 1 Rouse. Can climb and hang upside down.
+0000 Irresistable Voice. (Dominate 1). No longer need eye contact for
+0000 Draught of Might. 1 Rouse. Feed your vitae to another, they gain Dominate.
+Potence dots equal to half yours. Summon. Target feels a pull, knows where to go, knows who is
+OOOO0 sEarthshock. 2 Rouse. Punch ground shockwave. 5m radius, knock off calling.
+balance. OOOOO | Majesty. Divine beauty or terrifying. Nearby people cannot act to
+oppose you without winning a contest.
+Star Magnetism. Presence can be used on live camera feeds (not
+recordings).
+Protean, Pg. 269 Blood Sorcery, Pg. 272
+
+(e) Eyes Of The Beast. Free. Red gleam, see in total darkness and +2 [e) Corrosive Vitae. You make your dripping blood turn into acid.
+Intimidation on mortals. A Taste For Blood. Taste somebody's blood and learn resonance,
+Weight of the Feather. Free. Weightless, no damage from falling, not supernatural type, blood potency, approximate generation. Can
+trigger sensors. taste diablerie.
+
+oo Feral Weapons. 1 Rouse. +2 damage, and superficial damage not fofe) Extinguish Vitae. Increase the Hunger of another vampire.
+halved. 000 Blood of Potency. You can increase your Blood Potency for 1 scene.
+
+0O0O Earth Meld. 1 Rouse. Sink into ground (not artificial, like concrete). Can even exceed your generation limit.
+
+Shapechange. 1 Rouse. Change into a single type of animal. Can use Scorpion's Touch. You make your blood poisonous. Can coat
+some Disciplines. weapons or spit or kiss. Can make your own blood toxic if someone
+drinks from you. Cannot be used in syringe, or to spike drinks. Does
+
+0000 Metamorphosis. 1 Rouse. Additional animal type for Shapechange. Agg damage to mortals. Kindred Fortitude resists.
+
+00000 | Mist Form. 1-3 Rouse. Takes 1
+
+--- CHUNK 8 ---
+-3 turns. Cannot make eye contact. 0000 | Theft of Vitae. A mortal begins bleeding, and you can feed on them
+Move at walking pace. Can only be damaged by sunlight, fire and without biting from across the room. The effects of the Kiss are still
+immaterial supernatural attacks. felt.
+
+Unfettered Heart. Free. More difficult to stake.
+OOOOO sBaal's Caress. Stronger version of Scorpion's Touch. One drop now
+kills a mortal, and does Agg damage to vampires. Next time a
+vampire sleeps, they must roll again to resist poison or enter torpor.
+Cauldron of Blood. Boil blood of victim in their own veins, massive
+damage, excruciating pain. Does Agg damage to vampires, and
+increases Hunger. 1 dmg kills mortals.
+Blood Sorcery Rituals Level 4, pg. 279.
+. oo. Defense of the Sacred Haven. Prepare an area (e.g. Window or door), and the sun
+Wards. An object, less than 1m in size. Lasts forever. Does Agg damage. Auspex To
+can detect will not penetrate. Lasts 1 day.
+. . oo. . . Eves of the Nighthawk. Can use the senses of a bird, e.g. Crow. Lasts for 3 nights,
+Warding Circle. Can point inward or outward to protect or imprison. 3 rouse
+. . ees unlimited range.
+checks. Last until dawn. Higher difficulty to last for a year and a day. When a .
+. Incorporeal Passage. You become a ghost, can pass walls. Immune to physical
+trespasser tries to move through, roll. On success, they cannot pass and take . 4
+superficial damage, and must spend WP to ret damage, but can be harmed by sunlight, fire, etc. Lasts 1 scene.
+upernic! Be, usE SP "y. Ward Against Cainites. Like it says.
+Warding Circle Against Lupines. Like it says.
+Level 1, pg. 276. ¥
+Blood Walk. Using a cup of another vampires blood, you learn generation, sire Level 5 280
+name. Critical success also reveals blood bonds. .
+. . . Escape to True Sanctuary. Prepare 2 circles, A and B. You can teleport A -> B.
+Clinging of the Insect. Spider climb. . .
+Takes 3 nights to prepare. Can take 1 friend. Cannot have more than 1 pair of
+Craft Bloodstone. Create a stone you can track. Lasts 1 week. . .
+Se . circles. Damage to any circle breaks it.
+Wake with Evening’s Freshness. Cast before daysleep, allows you to wake up with . .
+ae Heart of Stone. Your heart becomes stone, immune to staking. Lasts forever, but
+penalties if disturbed. ae
+Ward Against Ghouls. Lik t your personality becomes extra heartless.
+an ains outs. mike name suggests Shaft of Belated Dissolution. Make a magical stake that causes Final Death. +3 to
+attacks. If attack succeeds with margin of 5, dead immediately. Otherwise,
+Level 2, pg. 277. . P F . .
+. Lous . . . a, splinter still magically drills towards heart over hours or nights. Surgery that takes
+Communicate with Kindred Sire. Telepathic long distance communication. .
+Eyes of Babel. Eat tongue and e\ e, you can read and speak languages known b' 4 hours can remove splinter.
+~ Bu ye, you P Buss wn by Warding Circle Against Cainites. Like it says.
+victim for 1 week.
+Illuminate the Trail of Prey. Can see faint trail showing movements 24 hours ago
+for a target.
+Truth of Blood. You can roll to see if the target just lied. Ends when you miss one.
+Ward Against Spirits. Ghosts.
+Warding Circle Against Ghouls. Like it says.
+Level 3, pg. 278.
+Dragon's Call. Target must have tasted your blood. Within a week you harm them
+at range. Agg damage to Mortals, Superficial to kindred. Can be done 3 times.
+Deflection of Wooden Doom. First stake piercing your chest will shatter. Lasts 1
+night.
+Essence of Air. Potion that grants self (only) ability to fly at walking speed.
+Firewalker. Fire damage is halved for night. Can be performed on others.
+Ward Against Lupines. Like it says.
+Warding Circle Against Spirits. Like it says. Can be performed by mortals, if they
+got vitae.
+Thin Blood Alchemy, Pg. 282
+* Powered by thin-blood vitae, and mortal blood with Resonance. Distillation ie} Far Reach. Telekinetic push objects or people up to 100kg, range
+cost is for making it. Activation cost is for using it. GM should modify dice 
+
+--- CHUNK 9 ---
+pool 10m.
+depending on quality of ingredients. Haze. Mist follows you, making ranged attacks against you more
+¢ Asuccesses for it to work well. 2 for it to work weakly or late. 6 for increased difficult.
+effect. fofe) 1 Dot Disciplines Copy. You can make mixtures that emulate other
+Methods of Preparation Disciplines ist th ff Is or blind kindred
+1. Athanor Cororis. Your body makes the mixture, you drink the ingredients. Envelop. Create a mist that can suffocate mortals or blind kindred.
+Can be done without a prepared lab, but can only affect yourself. 000 2 Dot Disciplines Copy. You can make mixtures that emulate other
+2. Calcinatio. A mortal body makes the mixture, you feed your blood and Disciplines.
+ingredients to a victim. Defractionate. Restores old stored blood to freshness.
+3. Fixatio. You use a machine or oven or chemical lab. Can affect allies, but
+requires prepared lab. 0000 3 Dot Disciplines Copy: Require 1 drop of vitae from a vampire of
+the clan that has the Discipline you want to copy (not enough to
+blood bond or cause Hunger).
+Airbourne Momentum. 1 Rouse. Fly. Can carry human-sized mass.
+OOOOO | 4 Dot Disciplines Copy: You can make mixtures that emulate other
+Disciplines.
+Awaken The Sleeper. A potion that can awaken a vampire from
+torpor.
+
+

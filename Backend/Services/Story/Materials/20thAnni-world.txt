@@ -1,0 +1,1793 @@
+--- CHUNK 0 ---
+A - bl
+20°" A NINIVERSA RYeEDIALON
+ey Ww
+TABLE OF CONTENTS :
+BOOK ONE - THE RIDDLE *
+Introduction 5 }
+Chapter One: A World of Darkness : 13 7
+Chapter Two: Sects and Clans 37 ’ ,
+BOOK TWO - THE BECOMING ~ 3
+Chapter Three: Character and Traits 17 )
+Chapter Four: Disciplines 127. 4
+Chapter Five: Rules 745 ~
+Chapter Six: Systems and Drama ’ 257 at
+Chapter Seven: Morality : "309. ad
+™ P J was afl
+- BOOK THREE - THE PERMUTATIONS ; at
+: Chapter Eight: Storytelling oe BR 34555 oS ;
+Chapter Nine: The Others - 369 Sa
+Chapter Ten: Bloodlines a (393 ha
+Appendix a ' » 479
+: i ‘
+. - t A LP
+rs 7 Gan PNR. oO Ne NS Ce FE ae SN » a at FF
+3 We vba & ge WE Te A ao) n We on & atte NY . % 4 ¥. aa) f WW cia & pes Cy Cin tT
+NN aa... aS _ :
+og brea oe Ftp Ms ‘4 he. < ai Ba ae gs ty mtx i -. . vy Bey
+|| 8e gee vee |\.
+is f Fe Jai a ’ < - — @ : ; as ¢
+“oP BS eae hy ~~ 2 : Y oll
+a) so Introduction ,
+. ¥
+“No one holds command over me. No man. No god. No Prince. What is a claim of age
+for ones who are immortal? What is a claim of power for ones who deny death? Call your
+damnable hunt. We shall see who I drag screaming to hell with me.”
+- Ginter Dérn, Das Ungeheuer Darin
+Let’s face it: If you’re reading this book, you almost the game, constantly connecting the dots between
+certainly have a history with Vampire, and with White real-world events and the intricate undead conspiracy.
+Wolfs Storyteller games in general. We’re not going to This edition aims to tap into what made us fall in love
+spend word count on “What is roleplaying?” or other with Vampire in the first place. Whether your fondest
+elementary principles of the hobby — this is stuff you memories of the game are a day or a decade old, we
+already know, and if you don’t, there are tons of web- want to take you back to the time when the shadows
+sites where you can get that information. Instead, we’re loomed long and the vast potential of the terrifying,
+going to spend more space in Vampire: The Masquer- thrilling world of the Kindred first beckoned. We won’t
+ade — 20" Anniversary Edition on all of the stuff that’s be chasing metaplot through a library of supplements
+usable to you — all of the rules and setting that form or advancing any storylines. We want the pure, undi-
+the core of the Vampire experience, plus expanded luted essence of Vampire.
+Disciplines, scores of bloodlines (past and present), A Zeitgeist: Vampire exploded into hobby games in
+tweaked rules based on feedback from the Vampire 1991, and it very much evinced the gothic and punk
+community, and bits and pieces from here and there subcultures from which it drew, with their own roots
+that should prove useful. Sure, we'll go over the central fom the late 1970s through the mid-1990s. Remember
+concepts of Vampire, but after that, we're going to be the classic archetypes and breathe new life into them:
+in high gear. skinheads, goths, street preachers, metalheads, punks,
+wild-eyed poets, gangsters, urban primitives, dapper
+e mods, eerie pagans, and every icon who made for a
+What This Book Is memorable character in this snapshot of time.
+A Classic Experience: Call to mind the first time you A World of Darkness: Vampire evoked at once an
+ticked wa Wemnite, wlnon yon fee basame imuacrce urban alienation and neo-mystic sense of belonging. It
+in the World of Darkness. A quick poll around the of- ‘8 high society and the low life. It was angst and eee
+Ree honed haumoncontecouldisconithink ine banca wosity and sketchy drugs and a dangerous flirtation
+VAMPIRE THE MASQUERADE 20th ANNIVERSARY EDITION 5
+with a femme fatale who dragged you into a Damned e e
+immortality of blasphemous power... and the urges of Live-Action
+the implacable Beast. Gargoyles and gothic architec-
+ian Boyes ane & Although Vampire started off as a game that takes
+ture. Soaring skyscrapers and dilapidated tenements.
+rer : place around a tabletop, over the past twenty years a
+Cops and junkies. Corrupt senators and seductive bo- - ey : - ;
+; ; massive and thriving community of live-
+
+--- CHUNK 1 ---
+action role-
+hemian artistes. Razorblades and torn fishnets. Leather ; . ;
+, : play (or “LARP”) has taken the game in whole new
+jackets, a broken rosary, and a stolen revolver with the ''*” \! a
+‘ . ar directions. Many such troupes use our Mind’s Eye
+serial number filed off. Herein are the horrifying, Byz- : so
+ji : P . Theatre rules for their games or a variation of these
+antine, lurid backdrops against which all of the dramas
+: , : ._ tabletop rules, but there are plenty of others that use
+of the Kindred play out, and we’re going to revel in : ° . ;
+4 custom rules while keeping the Vampire setting to
+their decadent opulence and trenchant squalor. : ; ;
+; : : create their own modern gothic chronicles. There
+A Thank You: This year Is the 20th anniversary of are even organizations like The Camarilla and One
+Vampire, and we certainly wouldn’t be here without worid By Night that connect troupes in different cit-
+in panies a ee eae ee eer ies into massive chronicles covering the entire globe.
+Other LARP games have come and gone, each with
+ie renee loin nea oe er a their own communities, but the appeal of dressing up
+. » as one of the Kindred and acting out the machinations
+telling stories, and remembering why we became friends 6f the undead has been consistent throughout most of
+in the first place. Tell us about your character. Vampire’s history. In fact, if you’re reading this, odds
+are good that even if you haven’t played in a Vam-
+z SS z pire LARP, you’ve likely heard of them. Why has the
+appeal of dressing up and pretending to be a vampire
+Oh Yeah, The Metric System lasted so long?
+The aealliay ts cher mexeelf ws wine thane Many other LARPs involving imagining a fantasy
+A : world, a historical setting, or a place set in the far fu-
+worked on Vampire are Americans, and we / . ,
+. ture. These games are fun in their own right, but they
+write what we know. But we have a lot of very ; : :
+; f : require more costuming and props to communicate the
+passionate European fans. Time and again , t h h
+through the process of writing Vampire: The setting to everyone and, get them on, the sameqpae
+ey A we Because World of Darkness games take place in our
+Masquerade — 20‘ Anniversary Edition, we ;
+« p modern world, today, there’s less of a leap needed to
+were asked “Can you please stop using your ood
+saupeiél Innate gustemn aml put erennlhnns: get everyone imagining what’s going on. It also means
+Feoneintel a lower barrier to entry. A fresh player can show up in
+a T-shirt and jeans and play a young, rebellious Bru-
+Well, we did both. Where there’s an Impe- jah without breaking the flow for the other players. He
+rial measurement, we tried to put the metric can look up something on his phone or talk about re-
+equivalent nearby, so it’s one less thing you cent news while remaining in character. It’s easier to
+have to worry about when you're in the integrate our world into the World of Darkness, which
+ia pee a of ee makes it easier to jump in and start playing.
+“4 ive Dek a bgp Ae \ sonee et On the other hand, dressing up in an elaborate cos-
+‘ gry ta 8 . j ae ical a tume is lots of fun, and vampires can do that just as
+Bate Caines Ks Re i = ee ey well. That Brujah in the T-shirt can argue politics with
+pees PRR TET dane Rem a Ventrue ina frock coat, while they are overheard by a
+aren’t exact, and they aren’t meant to be; like .
+cee eS il heel Nosferatu dressed in an elaborate cloak and mask, and
+ot i 4 est ame a ee, cA tou it all makes sense. The clash of styles and history reso-
+ae ae Me eO ECTS TOO re) Un StOLy) nates with the ancient-but-modern culture of vampires
+SPS as a whole, instead of detracting from it. And the blend
+Seo doesn’t even have to be historical — vampires from
+a wide variety of cultures and languages can plot and
+scheme against each other with equal aplomb.
+6 INTRODUCTION
+a
+== a — —
+= — _—\
+= =
+=
+Finally, the eternal political tension in Vampire understands exactly what you’re doing. Even though
+means that there’s always some
+
+--- CHUNK 2 ---
+one to piss off, and the concept of a live-action game is a lot more main-
+there’s always someone else that can capitalize from stream now than it was when Vampire started, a game
+that. Many LARPs are either full-on open warfare be- can look suspicious, disturbing, or even frightening to
+tween the players or completely team-oriented against those who aren’t aware of what’s going on. Always be
+outside forces, but Vampire creates a constant churn _ polite to people outside the game.
+of loyalties, an ever-shifting web of intrigue and favor ¢ Know When to Stop: If the Storyteller calls for
+that encourages conflict without constantly breaking 4 time-out or other break in the action, stop imme-
+out into bloodshed. Tonight's social outcast might be diately. The Storyteller is still the final arbiter of all
+tomorrow night’s Prince, which means that players al- gyents in the game. Likewise, when the game is over
+ways have someone new to talk to, and someone else f+ the night, use it as a good opportunity to take out
+new to snub. your fangs and have dinner and drinks with the other
+layers to swap war stories (and maybe engage in a lit-
+Safeguards Pray ‘P ( ype engag
+> y ; ; ; tle braggadocio).
+Despite the wide variety of live-action games out ; ; a /
+there, there are some rules common between them to ° It’s Only a Game: Live-action is for having fun. a
+ensure that live-action is safe and enjoyable for all par- rival wins, if a character dies, if a plan goes awry, it’s
+ticipants and bystanders. not the end of the world. Sometimes folks like to get
+. 4. together outside the game and talk about it, and there’s
+¢ No Touching: All combat and physical interac- : ; :
+te nothing wrong with that. But calling your clanmate up
+tion is generally handled through the rules. Players j ; : ;
+: ; at four in the morning to ask for her assistance in your
+must never strike, grapple, or otherwise touch anyone , vy : :
+1 Primogen bid is taking things too far. Remember, ev-
+during the game — some games allow some consensual tes :
+_ = eryone’s doing this to have fun.
+touching in specific instances, but you can never go : ; : ‘
+wrong by not touching in the first place. It is the Sto- Live-action can be one of the richest and most satis-
+ryteller’s responsibility to call a time-out if one or more fying storytelling experiences, if handled maturely and
+players get overly rambunctious. responsibly. Many of us have been playing it for years,
+. and have made a lot of life-long friends through playing
+© No Weapons: Props such as hats, period dress, and |
+. : - ; undead bastards out to screw each other over. Here’s to
+canes are great in a live-action game. Weapons aren’t. ;
+: : twenty more years of costumes, dental adhesive, and
+No knives, no swords, and nothing that even remotely i \
+: political overthrows!
+resembles a firearm should be carried — law enforce-
+ment generally doesn’t take “but we were playing a
+game” as a good excuse. Even bringing fake swords, What is a Vam ire?
+squirt guns, or foam-rubber weapons can lead to confu- p e
+a and panicked phone calls an ay a I Your In Vampire, players assume the personas of vampires
+iS ic, must tou ae i pare any A care and — the immortal bloodsuckers of the horror genre —
+i ‘na Of WOE — ee hate voles ho and guide these characters through a world virtually
+se i ce Present t — to the otoryteller, WNO identical to our own. But these aren’t quite the vam-
+wumadjucicate its use in play. pires you might know from Dracula or Twilight. The
+¢ Play in a Designated Area: Live-action is meant vampires that exist now — or Kindred, or Cainites,
+to be played in a home or other pre-designated spot. as they commonly call themselves — are both similar
+Don’t involve bystanders in the game, and make sure to and different from what we might expect. In many
+everyone in the area, or who passes through the area, ways, vampires resemble the familiar monsters of myth,
+VAMPIRE THE MASQUERADE 20th ANNIVERSARY EDITION 7
+cinema, folklore, and fiction.
+
+--- CHUNK 3 ---
+ However — as many an Blood is all-important to the Kindred, for it is both
+intrepid vampire-hunter has learned to his sorrow —_ the crux of their existence and the seat of their pow-
+not all of the stories about vampires are true. er. Mortal food, mortal air, mortal love — all of these
+
+° Vampires are immortal. True. While they can be things are meaningless to a vampire. Blood is the Kin-
+killed (a very difficult process), they do not age or die dred’s only passion, and without it, they will quickly
+from natural causes. They don’t need food such as hu- wither and fall dormant. Moreover, each vampire can
+mans eat, and they don’t need to breathe. use its stolen blood to perform amazing feats of healing,
+
+j strength, and other supernatural abilities.
+
+e Vampires are living dead and must sustain them- e } P 7s
+selves with the blood of the living. True. A vampire ° Anyone who dies from a vampire's bite rises to
+is clinically dead — its heart doesn’t beat, it doesn’t become a vampire. False. If this were true, the world
+breathe, its skin is cold, it doesn’t age — and yet it would be overrun with vampires (and not just in our
+thinks, and walks, and plans, and speaks... and hunts media). Vampires do feed on human blood, and they
+and kills. To sustain its artificial immortality, the vam- do sometimes kill their prey but most humans who
+pire must periodically consume blood, preferably hu- die from a vampire’s attack simply perish. To return as
+man blood. Some penitent vampires eke out an exis- undead, the victim must be drained of blood and sub-
+tence from animal blood, and some ancient vampires sequently be fed a bit of the attacking vampire’s blood.
+must hunt and kill others of their kind to nourish his process, called the Embrace, causes the mystical
+themselves, but most vampires consume the blood of transformation from human to undead.
+humanity. Our blood. ¢ Vampires are monsters — demonic spirits em-
+
+Vampires drain their prey of blood through the use bodied in corpses. False... and true. Vampires aremog
+of retractable fangs, which Cainites develop as soon as demons per se, but a combination of tragic factors draws
+they first become undead. Each vampire can also mys- them inexorably toward wicked deeds. In the begin-
+tically lick closed the wounds made by their fangs, thus 8 the newly-created vampire thinks and acts much
+concealing the evidence of their feeding. as she did while living. She doesn’t immediately turn
+
+o =
+. oa $ a =
+> =~ =
+“4.5 . .e
+‘ - = 4 »
+be
+2 q
+* 4 E. ‘
+a. i —— 7
+ss : = n “ft %
+12 * =
+aren
+we
+8 INTRODUCTION
+into an evil, sadistic monster. However, the vampire Disciplines. Elders’ powers can often rival those of the
+soon discovers her overpowering hunger for blood, and _ fictional Lestat or Dracula, and the true ancients —
+realizes that her existence depends on feeding on hu- the Methuselahs and Antediluvians who have stalked
+manity. In many ways, the vampire’s mindset changes _ the nights for thousands of years — often possess liter-
+— she adopts a set of attitudes less suited toa commu- _ ally godlike power.
+nal omnivore and more befitting a solitary predator. * Vampires have sex. True. It’s a great way to feed,
+
+At first reluctant to kill, the vampire is finally forced — but carnal pleasures don’t mean as much to the Kin-
+into murder by circumstance or need — and killing be- dred. Feeding, which vampires call “the Kiss,” is an
+comes easier as the years pass. Realizing that she herself incredibly intoxicating and erotic experience for Cain-
+is untrustworthy, she ceases to trust others. Realizing ites and their victims. Sex is great, but nothing truly
+that she is different, she walls herself away from the — replaces the ecstasy of feeding for a vampire.
+mortal world. Realizing that her existence depends on
+secrecy and control, she becomes a manipulator. And The Embrace
+things only degenerate as the years turn to decades and Vampires are created through a process called the
+then centuries, and the vampire kills 
+
+--- CHUNK 4 ---
+over and over, Embrace. Some vampire Clans Embrace more casually
+watching the people she loved age and die. Human life, than others, but the Embrace is almost never given
+so short and cheap in comparison to hers, becomes of _ lightly. After all, any new vampire is a potential com-
+less and less value, until the mortal “herd” around her petitor for food and power. A potential childe is often
+means no more to her than a swarm of annoying in- Stalked for weeks or even years by a watchful sire, who
+sects. Vampire elders are among the most jaded, unfeel- greedily evaluates whether the mortal would indeed
+ing, and paranoid — in short, monstrous — beings the make a good addition to the society of the Kindred.
+world has ever known. Maybe they are not demons ex- The Embrace is similar to normal vampiric feeding as
+actly — but at that point, who can tell the difference? the vampire drains her chosen prey of blood. However,
+
+¢ Vampires are burned by sunlight. True. Vampires upon complete exsanguination, the vampire returns a
+must avoid the sun or die, though a few can bear sun- bit of her own immortal blood to the drained mortal.
+light’s touch for more than a very short period of time. Only a tiny bit — a drop or two — is necessary to turn
+Vampires are nocturnal creatures, and most find it ex- the mortal into a new vampire. This process can even
+tremely difficult to remain awake during the day, even _ be performed on a dead human, provided the body is
+within sheltered areas. still warm.
+
+¢ Vampires are repulsed by garlic and running wa- Once the blood is returned, the mortal “awakens” and
+ter. False. These are myths, and only a very small frac- begins drinking of his own accord. But, though animate,
+tion of vampires are even inconvenienced by them. the mortal is still dead; his heart does not beat, nor does
+
+* Vampires are repulsed by crosses and other holy he breathe. Over the next week or two, the mortal’s
+symbols. This is generally false. However, if the wielder body undergoes a penies of subtle transformations; he
+of the symbol has great faith in the power it represents, learns to use the Blood in his body, and he is taught the
+a vampire may suffer ill effects from the brandishing of special powers of his Clan. He is now a vampire.
+the symbol. The Hunt
+
+¢ Vampires die from a stake through the heart. When all is said and done, the most fundamental
+False. However, a wooden stake — or arrow, crossbow — difference between humans and vampires lies in their
+bolt, etc. — through the heart will paralyze the mon- methods of sustenance. Vampires may not subsist on
+ster until it is removed. mortal food; instead, they must maintain their eternal
+
+¢ Vampires have the strength of 10 men; they can _ lives through the consumption of blood — fresh hu-
+command wolves and bats; they can hypnotize the man blood.
+living and heal even the most grievous wounds. True Vampires acquire their sustenance in many fashions.
+and false. The power of a vampire increases with age. Some cultivate “herds” of willing mortals, who cher-
+Young, newly created vampires are often just a little ish the ecstasy of the vampire’s Kiss. Some creep into
+more powerful than humans. But as a vampire grows in houses by night, feeding from sleeping humans. Some
+age and understanding, she learns to use her blood to _ stalk the mortals’ playgrounds — the nightclubs, bars,
+evoke secret supernatural powers, which vampires call and theaters — enticing mortals into illicit liaisons
+
+VAMPIRE THE MASQUERADE 20th ANNIVERSARY EDITION 9
+and disguising their predation as acts of passion. And
+yet others take their nourishment in the most ancient
+fashion — stalking, attacking, and incapacitating (or
+even killing) mortals who wander too far into lonely
+nocturnal alleys and empty lots.
+The Nocturnal World of the Vampire
+Vampires value power for its own sake and for the
+security it brings, and they find it ridiculously easy to
+acquire mundane goods, riches, and influence. A mes-
+merizing glance anda fe
+
+--- CHUNK 5 ---
+w words provide a cunning vam-
+. pire with access to all the wealth, power, and servants
+, he could desire. Some powerful vampires are capable
+Aly " Nf es of implanting posthypnotic suggestions or commands
+Pa A Re 7 in mortals’ minds, then causing the mortals to forget
+oe, <q ‘e the vampire’s presence. In this way, vampires can eas-
+ily acquire legions of unwitting slaves. More than a few
+“public servants” and corporate barons secretly answer
+to vampire masters.
+Though there are exceptions, vampires tend to re-
+’ main close to the cities. The city provides countless
+opportunities for predation, liaisons, and politicking —
+b and the wilderness often proves dangerous. The wilds
+are the home of the Lupines, the werewolves, who are
+the Kindred’s ancestral enemies and desire nothing
+more than to destroy vampires outright.
+} The Jyhad
+Some vampires seek to have nothing to do with their
+kind, choosing instead to exist and hunt in solitude.
+og However, the civilization of the undead is a manipu-
+~~ lative and poisonous dance, and few vampires are left
+rs P entirely untouched. Since the nights of antiquity,
+Cainites have struggled for supremacy, in an ancient
+and many-layered struggle known as the Jyhad. Lead-
+’ ers, cultures, nations, and armies have all been pawns
+in the secret war, and vampiric conspiracies have in-
+fluenced much (though by no means all) of human
+history. Few things are as they seem in the vampires’
+. nocturnal world: A political coup, economic crash, or
+social trend may be merely the surface manifestation
+of a centuries-old struggle. Vampire elders command
+from the shadows, manipulating mortals and other
+vampires alike — and the elders are often manipulated
+in turn. Indeed, most combatants may not even realize
+for whom they fight, or why.
+PF. Reputedly begun millennia ago, the Jyhad rages even
+today. Though skyscrapers take the place of castles,
+aaa | machine-guns and missiles replace swords and torches,
+aha and stock portfolios substitute for vaults of gold, the
+game remains the same. Kindred battles Kindred, Clan
+10 INTRODUCTION
+battles Clan, Sect battles Sect, as they have for eons. Chapter Seven: Morality describes Humanity and
+Vampiric feuds begun during the nights of Charle- the various Paths of Enlightenment that more alien
+magne play themselves out on the streets of New York and inhuman vampires adhere to.
+City; an insult whispered in the court of the Sun King Chapter Eight: Storytelling tells Storytellers how
+may find itself answered by a corporate takeover in Sao tg build entertaining stories in which to involve the
+Paolo. Pe ee cities provide cour OP- characters.
+portun L ones ns ON Ne ane wat Chapter Nine: The Others gives notes on the Kin-
+Increasingly, vampires speak of Gehenna— the long-  greq’s (few) friends and (many) enemies.
+prophesied night of apocalypse when the most ancient . ; ; .
+: : bs, ayo Chapter Ten: Bloodlines details a wide range of mi-
+vampires, the mythical Antediluvians, will rise from : — f
+their hidden laits to devour all the younger vampires. °° bloodlines, Clan variations, and some of the strains
+This Gehenna, so the Kindred say, will presage the end of vampire thought lost to the mists of time.
+of the world, as vampires and mortals alike are consumed Finally, the Appendix provides addenda and miscel-
+in an inexorable tide of blood. Some vampires strive to laneous rules.
+prevent Gehenna, some fatalistically await it, and still .
+others consider it a myth. Those who believe in Ge- Source Material ;
+henna, however, insist that the end time comes soon. Vampire not only pays homage to a long-standing
+and thriving genre, but has itself inspired countless
+vampire novels and movies over the past two decades.
+How to Use This Book You can’t throw a rock and not hit a young adult series
+or a television show featuring vampires, but below are
+This book is divided into several chapters, each of a few of the most important influences on the creation
+which is designed to explore and explain a 
+
+--- CHUNK 6 ---
+specific area Of Vampire.
+of the game. Remember, though, that in a storytelling Inspirational literature is almost too daunting to con-
+game, the most important “chapter” is your imagina- _ sider. Some of the most cited inspirations: Dracula, by
+tion. Never let anything in this book be a substitute for Bram Stoker; Interview with the Vampire, The Vampire
+your own creativity. Lestat, and The Queen of the Damned, by Anne Rice;
+Chapter One: A World of Darkness describes the Lost Souls, by Poppy Z. Brite; Brian Lumley’s Necroscope
+Kindred and the world in which they hunt. series; The Hunger, by Whitley Streiber; and I Am Leg-
+Chapter Two: Sects and Clans describes the 13 end, by Ricbiard Matheson. ‘The vampire playg hs "4
+« ” : the romantic poetry of Byron, Shelley, and Baudelaire,
+great “Clans” of Kindred and the organizations to f
+, : and the Internet has thousands of sites of old myths
+which they hold allegiance. j
+and legends of vampires from around the world.
+Chapter Three: Character and Traits gives step- There are also a ton of vampire movies as well. Bela
+by-step instructions for creating vampire characters as 4) PI . :
+Ls : Lugosi’s Dracula and Murnau’s silent Nosferatu are
+well as a description of the Traits that make them up. :
+the granddaddies of the genre. Other good (or at least
+Chapter Four: Disciplines delineates the wide vari- amusing) films include The Hunger, Near Dark, Vamp,
+ety of mystical powers of the undead. The Lost Boys, Salem’s Lot, the Cristopher Lee Hammer
+Chapter Five: Rules provides the basic means of re- Horror films, and the anime flick Vampire Hunter D.
+solving the characters’ various actions. Coppola’s Dracula is not the best in terms of plot, but
+Chapter Six: Systems and Drama describes a pleth- does have lush cinematography. And for television,
+ora of ways to simulate everything from gentle seduce YOU ant go wrong with shows like Buffy the Vampire
+Pe tal combat: Slayer, Angel, and True Blood.
+VAMPIRE THE MASQUERADE 20th ANNIVERSARY EDITION 11
+fn Ve OE i: (SE Se NE IT 8 a OY 3 en) we ee _F
+=) a ant Re ir Ug a yy We oa ie ede NY Tan 3 3's NV oie i od » a +t
+ees Sores 7 aay: 2 <8 ys a ~eiler bh NE or? 4
+h SSS SS SS SS SS Se Se Se SS ee ee aS SS ee ae ae eae aa ee < i
+: - an ae ae : . IRA AB ee SNE Sf -aapeenennn + ~ r b
+77S i eS pe 4 _ 2 - & € “f e a te Ba al
+& Marra ra on om ere ua / at |)
+. fe 4 & . . = =e sau © as ¢
+& Aa es ee es ~— . - - y 7 '
+: if . or 0
+2 . " fe
+K; Ny
+“The Children of Seth will always hate us again and again, for we are their predators.
+We are their Masters and they know this, deep in their soul.”
+- The Book of Nod
+The world of Vampire is a dark reflection of our own. In this setting, you will tell tales of morality and de-
+The shadows loom longer here, and the night is more _ pravity, of redemption and damnation. When you play
+reluctant to yield to day. Corruption runs rampant, Vampire, you enter this World of Darkness. Will you
+from the government through private corporations and _ leave it a better place when your time is done? Or will
+into the various subcultures that revel in these cultur- you take the path so many others have, leaving more
+ally bankrupt times. blight, ruin, and sorrow as your legacy?
+It is a world of contrasts, of haves versus have-nots. It
+all looks very much like the real world, as seen through e
+an extremely stylized filter that turns up the contrasts Gothic-Punk
+between dark and light. The technology is the same] TO
+as ours right now, but the people who use it are differ- The Gothic Guys of the setting INIA] much in the
+Pe ciisrerin personalityland| motive seyandithat literary tradition of the word. Gothic literature paints
+Binpedhownhermorldifonetions a world of anachronisms, barbarism, decay, madness,
+tn thi id ; : dth h and a romanticized history that never existed. In the
+n this world, vampires exist, and they are very MUCN —trramodern context of Vampire, we see it in the
+an extension of the tarnished aesthetic that shapes the iydiacih ; k iy a
+
+--- CHUNK 7 ---
+l Aah F Al
+a churches whose spires soar skyward, in the avarice an
+World of Darkness. Whatever their origins, or what- Geamhany of dhe aaeiiyy cle cation mise conten, tin
+ever they believe to be their origins, vampires are an h bli hi Fidnoat alah :
+tgrowth of the people who populate this desperate WihieLL ot nen Sere
+ee onment eathes exist al the World of Teas ature reclaupthe places forgotten. on aban aaa
+5 men. A tenement erected at the turn of the 20th cen-
+because they are the monsters among us, the products : : ;
+° * tury, fronted by dingy, fluted columns and infested with
+of a world so dark that only something truly horrible . hi leo /\ il ill;
+d captivating can challenge the depths into which SUE dL Be oc ee ae i
+iy re oa th ae hh i di aire’s estate on the edge of town is a modern castle, as
+oe ogre si CCDs Ol (he wore nave, plunged Lt is his lavish penthouse in the bustling district where
+VAMPIRE THE MASQUERADE 20th ANNIVERSARY EDITION 13
+mortals go to dance and drug away their cares. A mad runs in scale from the clash of cultures where domains
+priest offers succor to those members of his flock tor- overlap to the desperate, personal struggle of a mother
+mented by “monsters,” the ivy-choked cemetery where who can’t afford to feed her crying child or the struggle
+velvet-clad sensualists recite poetry and seduce the between a junkie and his drug of choice. Rebellion is
+shades of the departed, the graffiti-tagged warehouse everywhere, and just living another day to spit in the
+docks where the skinheads torment their victims: All face of what the long-shadowed World of Darkness has
+of these and more are hallmarks of the modern gothic _ to offer is an act of defiance. Everyone opposes some-
+experience. thing, and the punk element of the setting is the dra-
+Punk, on the other hand, refers to the context in atic fulfillment of that opposition.
+which people experience their world. It’s about an- Ultimately, you will decide the details the Gothic-
+ger, about getting in someone’s face and saying “No Punk ambience of your vampire stories. The setting
+more.” It’s about refusing to be ignored and stepping may pale in importance to the narrative events of your
+on some motherfucker’s toes to get your point across. chronicle, or the city and its components may become
+As a result, conflict is everywhere, from the gang wars like a character themselves. Whatever the case, your
+that plague the streets to the self-serving movements vampires are a product of their environment, and every
+in the back rooms of governments and corporations. It scene you and your troupe describe reflects this.
+Theme and Mood
+Over the course of playing a Vampire chronicle, you will explore a wide variety of story situa-
+tions, interesting characters, and challenges. In almost every case, these interactions will illustrate
+the theme of the chronicle that the Storyteller wishes to convey, and will involve the mood of
+impending reckoning. That generalization leaves room for creative interpretation, however, and
+each of your stories will be the truly unique result of theme, mood, and storytelling.
+Themes
+Some themes are inherently part of the Vampire experience, and the Storyteller will either ex-
+pand on those or introduce his own into the mix. Here are the core themes of the game, to better
+illustrate the setting.
+A Beast I Am, Lest a Beast I Become: Vampire lets you play the monster and makes you mor-
+ally accountable for it. All of the protagonists are vampires: blood-drinking monsters who dwell
+in the shadows at the edge of society and subculture. Vampires have tremendous power, but that
+power comes paired with the Curse of Caine, which carries a Biblical gravity. Players have an emo-
+tional stake in these characters, and when we play the game, we see their dark side and watch them
+wrestle with morality. This timeless riddle implies that all vampires must fall eventually, but when
+and under what circumstances? These questions are at the root of the chronicles t
+
+--- CHUNK 8 ---
+hat we play.
+The Masquerade: It’s the very foundation of Vampire. Once the character is Embraced, they
+are drawn behind the curtain, and everything they know is changed. The Kindred try to keep the
+curtain closed, convincing their prey that monsters do not, in fact, hide among them. Inevitably,
+cracks appear in the fagade and the Damned are revealed for who they are. What happens when
+this occurs? For more information about the Masquerade as a concept, see p. 22.
+The Sins of the Father: People rarely choose to become vampires. In most cases, a sire Embraces
+them without much regard for whether or not the individual wants to commit to an unlife of pre-
+dation, scheming, and horror. Likewise, the childe acquires the sire’s Clan, and thus his powers,
+weaknesses, and often predilections. This is all a great allegory for the Biblical idea of Original
+Sin, and deeply tied to the prevailing religious origin than many vampires attribute to the state
+of vampirism. God cursed Caine for murdering Abel and, as descendants of that first vampire, all
+14 CHAPTER ONE: A WORLD OF DARKNESS
+Kindred bear the stain of that primeval sin. This accountability, decided for each Cainite by the
+actions of her sire, pervades the vampire condition.
+
+A War of Ages: Elder Kindred hate younger vampires because they fear new generations will
+take away the domains they’ve fought for decades or even centuries to establish. Younger Kindred
+resent their elders for the ways they selfishly lord over their domains and refuse to allow the young
+to make a place for themselves. It’s like waiting for a promotion that will never come because the
+person in the position above you is never going to die or retire — and you need your job to stay
+alive. Kindred history is characterized by the haves versus the have-nots, most often in the form
+of the elders versus the neonates. The Anarch Revolt and the subsequent Inquisition were the
+apex of this struggle in history, but it plays out every night on more localized scales of Kindred
+community and influences the way all vampires interact in the World of Darkness.
+
+Inherent Conflict: Sect versus Sect. Clan versus Clan. Rebels versus the status quo. The Man
+versus the Beast. Everybody’s against everybody in the World of Darkness, and there’s never
+enough to go around. These conflicts color the other themes of the game, and what your sire has
+made you — in terms of Kindred, Clan, Sect, and outlook — automatically buys you a panoply
+of enemies.
+
+Conspiracy: Wheels turn within wheels. The Kindred as a race are skilled manipulators and
+deceivers, the better to enact their schemes while maintaining a veneer of deniability. A neonate
+striking out against a hated elder might actually do so at the behest of that elder’s rival, who in-
+cited the turbulent vampire with a clever ruse. Indeed, some Kindred wonder if the whole of the
+Jyhad is the machination of the Antediluvians, and whether any vampire truly has free will.
+
+Apocalypse: These are the End Times. The judgment of the Kindred, Gehenna, is coming. We
+don’t know when, we don’t know how, and we don’t even know what it’ll be, but all of the grim
+portents of our kind indicate that we’re careening toward our reckoning. Do we rage against the
+dying of the light, or do we fiddle while our contemporary Gothic-Punk Rome burns? Are all these
+elders really so vituperative over petty politics with the Biblical Rapture at the threshold? What
+will happen to the mortal world when the Kindred judgment is nigh?
+
+Mood
+
+Vampire stories can be complex and subtle tapestries that can evoke a variety of moods in indi-
+vidual chronicles. There are some, though, that are common to the World of Darkness.
+
+Sensual: It might be a pang of desire, or it might be an undeniable physical lust, but becoming a
+vampire is a sexual consummation, as is the act of feeding. We’re dead, sexy things and we’ll never
+grow old, and we have a license from our maker to indulge our every erotic urge.
+
+Mysterious: Fog and shadows 
+
+--- CHUNK 9 ---
+shroud the landscape. This is the mood of Casablanca and The
+Maltese Falcon, of Hitchcock and J. J. Abrams. The imagination is aroused by the things that
+remain nebulous and hidden, and even the vampires that stalk the night don’t know everything
+that happens in the shadows.
+
+Dangerous: Nonstop action, full of intensity. The World of Darkness is a dangerous place, and
+death is always just around the corner. Just when you catch your breath, two guys kick in the door
+with guns in their hands. The life of the vampire is filled with drama and suspense.
+
+Eerie: There is an oppressive weight in the air, a sense of great evil that hangs over everything.
+Everything has a strange, unreal quality to it. The World of Darkness is full of the bizarre, and the
+vampires are not the only monsters around.
+
+VAMPIRE THE MASQUERADE 20th ANNIVERSARY EDITION 15
+Th Ki that vampire just performed the Embrace, well, there’s
+e ndred no longer only one vampire there.
+a a ee a : . y :
+
+For the Kindred, cities are urban collections of ter- The trappings of the fledgling’s mortal life can ne
+ritories and domains that stand as illuminated points longer Support er In the short term the new a
+against the greater backdrop of the wilderness and the "°W Pia. ei a sustain oe ant a gee eal
+places in between their safety. For vampires, the para- ON©SS a ie al eet MA ie One TONES al
+digm is almost medieval. The cities are their homes, and pier Y result in rie y aa scl € tong ree ue a
+everything that’s not a city represents some sort of dane New vampire wil remain Ceathless, unchanged’ by
+ger. Outside the city are packs of savage Lupines, vast “MS those around her will age, wither, and die. The
+fallow areas where there is no blood to be found, and ©@S!€st Course, most sites agree, Is simply to turn On
+the unquantifiable strangenesses endemic to a World back on the mortal life that no longer offers anything
+of Darkness. Modem technology eases those dangers bar eragedly and a reminder of the damned state of the
+somewhat, but most Kindred are effectively trapped in UNCCAt:
+cities, where they gild their cages with elaborate games A Beautiful Corpse
+of prestige, social status, and vendetta. aw f
+
+Ee , Once a vampire is Embraced, her looks are frozen in
+
+To that end, much of Vampire takes place in urban time. Her skin will be unnaturally cold to the touch
+environments. Why should the Kindred risk starvation and become paler as she ages, but she will look the
+in the untamed wild when those badlands confer no same in a thousand years as she does on the night of
+status upon their masters, and when a frenzied were- her Embrace. However, her body does not work like it
+wolf may well come rampaging across the landscape, used to. As mentioned previously, nearly all Kindred
+leaving dismemberment in his wake? Truly, vampires are unable to eat food after the Embrace, vomiting it
+are uniquely acclimated to city domains, and the cities up almost immediately — only blood will sustain them.
+are the places that hold the most of their most precious —Qver time, most of the vampire’s bodily fluids will be
+resource in vitae. replaced by blood — the Kindred sweats a thin sheen
+
+of blood when nervous, cries tears of blood when sad,
+The Embrace and makes a god-awful mess during sex.
+
+Upon the Embrace, the fledgling’s senses sharpen, Blood has other, unique uses for vampires. Besides
+displaying to her a richness of visual colors, auditory needing it for sustenance, Cainites can mentally direct
+distinction, tactile fineness, and olfactory alertness the blood to various parts of her body, “spending” it to
+that mortals senses are too limited to discern. The most _ perform a variety of feats. She can heal herself, mend-
+important of all, however is taste — taste becomes the ing scrapes, cuts, and slashes in moments. She can
+new Kindred’s primary sense, and with it she engages also enhance her physical capabilities, making herself
+the pursuit of a single taste to the exclusion of all oth- stronger, ha
+
+--- CHUNK 10 ---
+rdier, or more agile for a short period of
+ers: vitae. Mortal blood. The mortal dies, and in her time, and fuel the mystical powers at her command.
+places rises a member of the undead, a Kindred. With Her blood can also create new vampires through the
+this unholy rebirth comes a host of new potential, from Embrace, and enslave the minds of mortals and even
+the mystical powers known as Disciplines that Kindred other Kindred. Some vampires can also spend blood
+possess to the quintessential vampiric ability to use to appear human once again: make their skin rosy and
+blood for a variety of supernal purposes. warm, mimic breathing, and even allow her to have
+
+Thereafter, nothing is the same for the fledgling. She’s SX once again (although intercourse pales in compari-
+no longer mortal, but anew member of an elaborate so- 50 tO the ecstasy of the Kiss).
+ciety of the Damned, who have their own complicated The Beast
+
+, : : le be
+codes of behavior, their own customs, and seemingly , ; :
+: F j Of course, there’s a downside as well. Inside every
+endless rules and protocols that dictate who is subservi- : : : :
+; vampire lurks an impassioned, hungry creature that is
+ent to whom and under what circumstances. Even for ; -
+j the opposite of the Man. It is the Beast, and the Beast
+those who rebel against the system — Anarchs, ungov- oe . :
+: knows only three activities: kill, feast, sleep. It is the
+ernable Autarkis, and any number of other rogues — a aie : .
+‘ , P »,;. toiling, inchoate desire every Kindred feels to slay her
+k d & y y
+pecking order must exist. The only place it doesn’t is amet a 2 ae
+i : , .¢ prey rather than taking just enough. It is the inevita-
+when only one vampire claims the domain... and if mat
+ble urge to be what the vampire is — a predator who
+16 CHAPTER ONE: A WORLD OF DARKNESS
+doesn’t answer to the will of men or hide from their powerful creatures, certainly, but those powerful crea-
+numbers. When the Beast takes control over a vam- tures have put in place hierarchies of their own, and
+pire, she is said to enter a state of frenzy, directing the none of them have “share my jealously hoarded power
+Cainite into a response of fight or flight. with some newly Embraced whelp” at the top of their
+But the Beast isn’t a simple animal soul; it can be agendas.
+sophisticated. It knows that the war against the Man The elders have it all sewn up, it would seem. They
+is one that, given time, it will inevitably win. Thus, claim domains that they have held for decades, if not
+in young vampires, the Beast is often a savvy creature, centuries. The social hierarchies, no matter the Sect, are
+willing to take small victories here and there because occupied by cagey vampires who didn’t rise to the top by
+in the long term, they lead the Kindred down the path being companionable. The highest echelon of Kindred
+of greater degradation and subservience to the Beast. authority in almost any city is a spider’s web of tenured
+Tonight the Kindred destroys property, tomorrow she _ intrigues, vicious rivalries, and outright hatreds that can
+kills with reticence, the night after that she kills with — boil over into physical violence and even Final Death.
+relish. By the time the Man has eroded and the Beast Add to this the fact that these entrenched elders are
+holds sway, there Is little rational Consciousness left to mnasters of manipulation and misdirection, and many
+the Cainite in question. Kill, feast, sleep is all that re- young vampires feel — not incorrectly — that they are
+mains in a vampire dominated entirely by her Beast. pawns. They are moved in a game played by hoary old
+° monsters, and their every movement may not even be
+The Aristocracy of the Dead their own. Does the brash young Brujah really hate the
+The Kindred who believes he’ll forever be the tough-. Toreador ancilla who snubbed her at a party? Or did
+est motherfucker in the place just because he drinks the Ventrue elder encourage his great-grandchilde to
+blood and can’t die is in 
+
+--- CHUNK 11 ---
+for a rude awakening. Thou- hustle the inexperienced Brujah sire into introducing
+sands upon thousands of other vampires are compet- _ his progeny too soon into Kindred society in the hopes
+ing with him for that top-dog status. Vampires are that the Toreador would make a move? These are the
+= amr
+tH 7
+.
+tf ,
+> Y WwW P
+'
+VAMPIRE THE MASQUERADE 20th ANNIVERSARY EDITION 17
+games the elder Kindred play with one another. These tage. They haven’t been dead as long as their elders,
+are the wheels within wheels in the spiteful war of ages and remain closer to the mortals from whom they only
+known as the Jyhad. recently parted.
+This means they still have a connection to mortal
+The Jyhad trends, and in nights when even children have tech-
+What sets vampires at each other’s throats? What mo- nology at their disposal, young Kindred do, too. Elders’
+tivates them to construct the elaborate social systems 48 and stasis make them reluctant to engage with
+that allow them to stubbornly maintain their veneer of these new — and, frankly, frightening — technolo-
+humanity? What is the origin of the endless games of _ gies- Thus, the speed at which information travels is
+brinksmanship in which vampires contest one another? the neonate’s most valuable asset.
+In a single word, it is the Jyhad. From social media to web-based archives of city his-
+j ; . tory to data clouds that house all of the public records
+Vampires are inherently solitary creatures, lone pred- _. : : :
+; of civic transactions (including the name on the deed
+ators whose urges are selfish and destructive. When a: ;
+: - : of the Tremere chantry...), the ability to seemingly
+one vampire meets another for the first time, neither . Loy: . ae
+, on reach into the ether and pluck out vital information is
+of them can ignore the fact that the other is a rival for . j
+ie : . an aptitude that confounds many elders. Consider that
+the limited resources that he exerts himself night after : es
+; : arn . . a given elder may have once held sway over scriptoria
+night to cultivate. Whether an individual is a mighty qv . :
+: : of monks who diligently copied manuscripts by hand
+Sabbat Bishop or a lone Gangrel who subsists by not
+, ; ; ; over the span of years, or even one who watched the
+being noticed, each Kindred on a primal level knows a
+: : printing press slowly transform the western world. The
+that for every new vampire spawned, unlife becomes amar ; . :
+: speed at which information disseminates is a modern
+more and more difficult, more and more dangerous.
+horror that can cause even the most stalwart elder to
+In these modern nights of sophisticated Sects, long- blanch. Flash mob at the graveyard, which just hap-
+standing Clan politics, and the histories of cities that pens to be a craggy old Malkavian’s favored haven?
+define the fates of the Kindred who dwell there, this Wo problem,” says the confident young vampire,
+primitive urge to hoard all available blood all for smartphone in hand. There has even been talk of vam-
+oneself finds outlet in conspiracy and gamesmanship. pires making their own social network.
+What one Kindred wants, another hoards, another has ; ; .
+F : Just know what you're getting yourselves into,
+plans to steal, and still another can distract them all sees
+and seize a momentary advantage. Ps.
+It is ironic that Cainites turn to a mortal political
+figure to summarize the perilous philosophies of the S 4 | Di 4 cti
+Jyhad, and, indeed, if Kindred interactions can be de- ocia istin 10ns
+scribed in terms of human perspective, the appropriate Various castes, appellations, and divisions distinguish
+word is Machiavellian. “A prince never lacks legitimate _ the Kindred. Most vampires belong to more than one of
+reasons to break his promise,” Machiavelli advises, and _ the following groups, and movement between them can
+“If an injury has to be done to a [rival] it should be so _ be as liquid as a neonate’s ambition or as calcified as an
+severe that his vengeance need not be feared.” elder’s h
+
+--- CHUNK 12 ---
+abits. It all depends upon the domain and the
+Such perspectives are the bylaws of the Kindred’s circumstances. Note that these are allegiances or clas-
+eternal war against one another, and with centuries or _ Sifications, not jobs. Titles and offices a Kindred may
+millennia behind the individual feuds in the Jyhad, it Possess are something altogether different (see p. 24).
+is no wonder that the Damned play their cards so close
+to their chest. These are no mere territory struggles Age
+eet ee mortal tyrants. These are the con- One of the ways that Kindred determine the social
+ucts Chat drive history. pecking order is through a combination of age and
+Generation (an indication of how far the vampire is
+The Modern Advantage removed from Caine, the original ire). Newl
+: ginal vampire). Newly-
+Although it may seem like the elders have all of the Embraced Cainites must prove themselves to older,
+best domains, young Kindred do have a certain advan- more established vampires in order to gain any sort of
+18 CHAPTER ONE: A WORLD OF DARKNESS
+recognition or standing. There is a small degree of mo- has long been debated whether this change is mystical
+bility, but a vampire primarily gains respect through — or biological. Regardless, by the time a vampire reaches
+the passage of time and the attrition of his enemies. this age, the weight of millennia sets in, as well as an
+Fledgling: A fledgling is a newly-Embraced vampire increased paranoia. Those who are weak or take risks
+who has not yet been introduced to Kindred society do not survive to this age — only the most indomitable
+and formally emancipated from her sire. To this end, a @ttain the station of Methuselah.
+sire is responsible for the actions of his childe until he As a means of self-preservation, Methuselahs re-
+deems her able enough to handle Cainite culture on treat from the world. The constant struggle of facing
+her own. Some Clans shelter their fledglings for years the young who seek power through the blood of their
+or decades, like the Tremere, while others, like many elders grows numbing. Eventually one of the hungry
+Gangrel and Brujah, figure that once you’re a vampire, _ whelps will get lucky. Thus the only option is to retreat
+you’re on your own — tough shit if you can’t hack it. fully from society, and go into torpor. Some Methuse-
+The Sabbat — who sometimes call their hastily-Em- lahs remain involved in power struggles and the Jyhad
+braced fledglings “shovelheads” due to their bizarre of the Kindred, but do so from a position of complete
+Embrace rituals — are usually much more pragmatic: If anonymity. Still others do so from the cold sleep of
+the fledgling survives and does something worthwhile, torpor, moving their minions with mental commands,
+she’s not a shovelhead anymore. dream-visions, or centuries of conditioning. The fear
+Neonate: A neonate is a young vampire, one who of Jyhad, that no Kindred may truly call his actions his
+has not been Kindred very long. The main difference ©W» stems from the inexorable dread spawned by the
+between a neonate and a fledgling is that the neonate terrible potential of the Methuselahs.
+has been emancipated from her sire and otherwise is Antediluvian: Literally “before the flood,” the An-
+seen as an “adult” in vampire society. The line between _ tediluvians are believed to be those vampires of the
+fledgling and neonate is incredibly subjective, but usu-. Third Generation (see p. 29) who are descended from
+ally once Kindred society stops thinking of a vampire Caine’s original childer. Rumored to be the last vam-
+as her sire’s appendage and more on her own merits _ pires “with mastery over life and death,” the Antedi-
+and actions, then she’s become a neonate. luvians are almost certainly in the grip of millennial
+Ancilla: Those Kindred who have a few decades or torpor, assuming they still exist at all. If these Biblical
+centuries under their belts generally fall into the loose, ™onsters still dwell on earth, they cannot possibly still
+su
+
+--- CHUNK 13 ---
+bjective category known as the ancillae. They have resemble humans in anything more than physical form.
+paid their dues, understand (mostly) how Kindred soci- They have been vampires for so long that their urges
+ety works, and have probably accomplished something. and desires are wholly alien to human sensibilities,
+Ancilla is the rank between neonate and elder, imply- and even to those vampires who have been Kindred
+ing some degree of achievement in what local Kindred for “only” a thousand years or fewer. Some Kindred
+society deems appropriate. Of course, what counts as philosophies prophesy that the Antediluvians will rise
+“achievement” can vary wildly from Sect to Sect. A from their unquiet slumber and devour their wayward
+Camarilla ancilla would be considered soft and effete childer during an apocalypse known as Gehenna. Rad-
+by the Sabbat, while a Sabbat ancilla would probably ical — perhaps suicidal — believers in this prophecy
+be described as a raging maniac by Camarilla stan- advocate destroying the sleeping monsters where they
+nels. lie, if they can be discovered and destroyed at all.
+Elder: What constitutes an “elder” is similarly sub-
+jective, but it generally corresponds to a rough age Clans and Sects
+distinction of anywhere from 200 to 1000 years of be- A Kindred’s Clan is her lineage, the vampiric “fam-
+ing Kindred, with appreciable claims to domain and __ ily” into which she was Embraced. The Clans are dis-
+a variety of other assets to bring to bear in the Jyhad. _ tinguished by their Antediluvian founders. Kindred so-
+Typically, elders of Europe are much older than those ciety generally acknowledges 13 Clans tonight, though
+across the Atlantic Ocean. Elders are typically the old- some may have been lost to history, some may exist in
+est active vampires in undead society. secrecy, and some may never have been known. Some
+Methuselah: When a vampire reaches a particular Clans are highly organized, while others are utterly de-
+age, somewhere between 1000 and 2000 years of un- centralized. The only constant when speaking of Clans
+death, a profound change invariably overtakes him. It is that each has a unique ultimate progenitor, a set of
+VAMPIRE THE MASQUERADE 20th ANNIVERSARY EDITION 19
+mystical aptitudes known as Disciplines, and a perva- The Lasombra are proud nobles who command the
+sive flaw. very essence of darkness and shadow — to the point of
+
+Those without a Clan are known as Caitiff. These Worshiping it, some say.
+individuals are undeniably vampires, but they display The Malkavians are a Clan fractured by madness,
+no inherited characteristics from their sires (if, indeed, each member irrevocably suffering under the yoke of
+they know who their sires are at all). Caitiff are fre- insanity.
+quently shunned in Kindred society, as much for their The Nosferatu are hideously disfigured by the Em-
+lack of pedigree as their ignorance of vampiric social brace, so they keep to the sewers shadows and traffic in
+structures.
+
+the secrets they collect.
+
+A Sect is an artificial organization of vampires, usu- The Ravnos are nomads and tricksters who can force
+ally Poe’ of multiple ae a league or the mind to see what isn’t there, though they are slaves
+compact. In most cases, one’s Clan has immense in- to the vices they indulge in.
+fluence on one’s Sect, but exceptions do occur. Some :
+
+: : The Toreador enjoy every sensual pleasure the world
+Clans belong to no Sect at all, and in most cases, Cai- aren }
+; has to offer, idolizing physical beauty and the adora-
+tiff may be found among any of the Sects. : :
+tion of their thralls.
+The interplay of Clan and Sect realities shapes much . :
+, a : : The Tremere wield the supernatural power of their
+of a Kindred’s nightly experiences: A Camarilla Ven- .
+; ; ae : : sorcerous past, though they became vampires through
+true’s understanding of her city is radically different ;
+Sean) : treachery and artifice.
+from a Sabbat Tzimisce’s perspective.
+The Tzimisce are eldritch Old World lords wh
+
+--- CHUNK 14 ---
+o
+Clans have little in common with the mortal world and can
+; ; manipulate flesh and bone at a whim.
+
+The way Clans function varies. Some are closely : .
+
+; vs a dec: The Ventrue observe the noblesse oblige of vampire
+knit, almost fraternal organizations with distinct agen- ; ” .
+
+; ' i society, though their entitlement and greed encourages
+das and focused hierarchies. Others are little more
+yas Dd: them to seek ever more at the expense of others.
+
+than a predilection toward certain Disciplines and an
+exploitable flaw in the blood. Ultimately, what Clan The Caitiff have no inherent Clan society, support,
+means to each vampire is unique, and some Kindred or even characteristics; they are like orphans among
+may be very proud of their Clan while others don’t give _ the great families of vampires.
+it much thought. Ultimately, though, each Clan tends
+towards certain common behaviors, perceptions, or Sects
+roles in Kindred society. Sect — a vampire’s political and philosophical affili-
+
+The Assamites are silent masters of assassination, ation — is ostensibly a matter of choice. If a Cainite
+killing for hire and collecting blood for rituals to bring — dwells in a Sabbat city, however, she’s almost certainly
+them closer to their progenitor. a Sabbat member whether she wants to be or not, and
+
+The Brujah were once philosopher-kings of an an- 2 vampire in a Camarilla-held city had better have an
+cient civilization, but are now rebels and rogues with a exquisite explanation if he chooses not to honor the
+fearsome inclination toward frenzy. word of the Prince.
+
+The Followers of Set venerate a chthonic God while Each Sect has a dogma and an objective its members
+seeking out the world’s secret places and protecting an- seek to attain. Being broadly distributed organizations
+rient artifacts. populated by creatures as selfish as vampires makes a
+
+: : Sect’s nature in each city a unique thing. Some Sect-
+
+The Gangrel are bestial and untamed, often coming : - , Y 4 8 - d
+
+: , dominated cities might be paragons of their organiza-
+to resemble the animals over which they demonstrate ~~. : : :
+tion’s virtues, while other pay only lip service to Sect
+mastery. : : ,
+. 7 ; , ; creeds. For more information on the Camarilla, the
+
+The Giovanni are an insular family of vamp1res who Sabbat, the Anarchs, and the Independents, see Chap-
+pracuie’ the art of commanding the dead while com- ter Two, starting on p. 38. For more information on the
+manding global finances, as they have since the Re- Traditions, see p. 22.
+naissance.
+
+20 CHAPTER ONE: A WORLD OF DARKNESS
+The Camarilla holds up the Traditions as the high- ship with the Camarilla owes to its recklessness and
+est authority, with a figure known as the Prince acting shortsighted brand of fiery fanaticism. The Sabbat be-
+as the ultimate authority to both interpret and enforce _ lieves that ultimately, vampires must assert their place
+those laws in each domain. First and foremost, the over the mortal world instead of hiding from it, if they
+Camarilla sees its role as maintaining the Masquer- are to survive the fangs of their creators. Part fanatical
+ade, but in domains with accomplished Kindred, the death worshippers, part millennial doomsday cult, the
+conflicts between them regularly bring the rest of the “Sword of Caine” is neither subtle nor tolerant.
+Traditions into consideration as well. The Camarilla The Anarch Movement is localized and sporadic,
+considers itself a well-heeled Sect of genteel vampires, without any real central organization outside the in-
+and the term Kindred originates with it, in the idea giyidual cities where it establishes itself. In fact, the
+that all members of the Camarilla are peers in the same — Camarilla considers the “Anarchs” under its own pur-
+august organization. Of course, the social hierarchy of yiew, The central tenet of the Anarchs is that rule by
+the Camarilla is an elaborate construct, and vicious  gjders is an outmoded concept, and that Kindred do-
+interpersonal p
+
+--- CHUNK 15 ---
+olitics and ancient grudges shape the — mains should be governed by merit, with a fundamen-
+nightly affairs of the “Ivory Tower.” tal respect for the individual Kindred. Effectively, the
+
+The Sabbat holds an apocalyptic outlook, believing Movement seeks to redistribute the power in domains
+that the time for Gehenna is nigh, and the Ancients from the hands of the old elite into a more equitable
+will soon rise from their graves and devour their errant arrangement. While this may seem modern and rea-
+get. It has little regard for the Traditions other than — sonable, that’s not how Kindred society works in most
+immediate self-preservation, and its domains are hell- domains, and those who already benefit from consoli-
+ish urban warzones where people may well have seen dated power find the idea laughable at best and treason-
+vampire activity but simply chalk it up to the weirdness ous at worst. As well, many Anarchs style themselves
+and horror of the World of Darkness. The Masquerade as revolutionaries, willing to do whatever it takes to
+(or “The Silence of the Blood,” as they call it) is tenu- strip power from the corrupt old guard who hoard it.
+ous in Sabbat domains, and much of its poor relation- These are no utopian domains of happy Kindred-kine
+
+f . |
+tony ‘ of / i
+‘ ; j
+_ al \\ Sen
+q \—_ ? }-
+: ae A
+
+> . a
+
+VAMPIRE THE MASQUERADE 20th ANNIVERSARY EDITION 21
+relationships. These are petty kingdoms ruled by in- is simply too powerful or otherwise ungovernable for
+dividual undead lords of whatever territory they can _ the local Sect to bring under its sway. These latter are
+seize. often terrifying, warlike when prodded, and nearly leg-
+The Inconnu is an enigmatic elder Sect about which endary in the domain. If you're such a badass that you
+little is known. Indeed, it seems less of a cogent Sect ©@™ thumb your nose.at every pack of Templars or Ar
+and more of a confederation of Kindred who seek the chon strike team the local Kindred call ae force you
+state of Golconda, a sort of redemptive transcendence ‘© 0 the line, you’d make a fine Autarkis.
+of Damnation. The Sect rarely has more than one or
+two Kindred in any given domain, and territory ac- eye
+quisitions don’t appear to be part of its agenda. A few The Traditions
+territories belong to prominent Inconnu, and thus the : :
+; ; . . . Vampires observe a set of customs that exists some-
+Sect may be said to be dominant in that domain, but in ; . .
+“« wy where between being coded into their undead natures
+most cases of Inconnu presence, a “Monitor” takes up - ; : .
+
+/ : » : . .. anda social contract that’s ratified every night among
+residence in another Sect’s domain to watch its affairs hy the D LN ive afford
+and pursue her own salvation. What the Sect formally he chen ot the 7 ton . hy ot every Mont aor
+wants — if anything — remains unknown, and specu- he Sabb, the {tac va, t ‘ tld ck ey a 7
+lation runs rampant as to their origin. Some believe © 980at IM particular make Dold claims about the
+
+. flaws of the Traditions and the weak wills of those who
+that they are little more than a cult of would-be gods |“ : . . .
+j hide behind them — but in practice, most vampires
+while others suspect that they are the remnants of an : ‘*t
+: : observe the Traditions to some extent. This is most
+ancient Roman conspiracy that pre-dates the modern
+; true of the Masquerade, for as bold as the Sabbat or
+idea of Sects. Anarch b Ley don't h: h
+a Sect that spends little time in contact with the other jh6 secret that the undead walk among them
+factions of Kindred society. Very little is known about , . 4 enforci he Traditi aa
+the “True Black Hand,” and some Kindred consider wilene and an bility at nk ‘ PE 3 ia
+stories of its existence apocryphal. Its stronghold lies PTVNS¢ anc Tesponsibuity of the Kindred Trince. in
+; ; some domains, particularly those of non-Camarilla
+in the Underworld, the realm of the dead occupied by S both the titl d the Traditi h 1
+ghosts of things long lost to the modern world. Its 
+
+--- CHUNK 16 ---
+mis- ects, both the titles an : c ye ata Iions thems
+, ; . may vary, but the core principle is found everywhere:
+sion seems to be one of shepherding and protecting the ]
+3 Rae, 3 That an undead authority makes the rules and woe to
+world toward an end only it understands. Their vision ho feel that they don’t h heed th
+is similar to the First City as described in the Book of PY WM0 tee! that they dont have to heed them.
+Nod. The Sect holds no cities in the physical world as "Tye First Tradition: The Masquerade
+its domains, though it maintains estates and other odd This is the most important Tradition, for its obser
+nexuses where it breeds ghoul servants and sends its P , .
+ts forth into th id vance protects the race of Caine from discovery by a
+Bocas [Orth Into Che word. mortal world that would unite against them in fear
+The Independent Clans often function like small- and hatred. Many Princes and other Kindred authori-
+scale Sects themselves, with specific agendas in mind, ties spend a great deal of time using their influence or
+though this is not always the case. wealth to cover up breaches of the Masquerade, for the
+Autarkis greater good of the Damned who may not even under-
+N Kindred bel 5 f stand the peril in which they place themselves when
+ot every Kincred Delongs to a sect, nor sweats Te- they breach it. The Camarilla tends to err on the side
+alty to a Clan, Prince, Bishop, or other such entity. oF the pragmatic, cultivating its power from the shad-
+These Autarkis often lead solitary unlives not unlike 3... but the Sabbat longs for a time when the Mas-
+hermits or outcasts. The lot of the Autarkis is unique querade is no longer necessary, when mortals are little
+al Lidl ail is pear rove hae ae selene, and why more than blood-thralls born into the shackles of their
+oes the local Sect allow an in lividual to flout its pri-  yampiric masters.
+macy? In some cases, an Autarkis is beneath notice, as
+with a Nosferatu who keeps to his warrens on the out- The Second Tradition: The Domain
+skirts of Usha! GLP eT irretrievably damaged Malkavian Of all the Traditions, Princes often employ the widest
+who dwells in the Barrens. In other cases, the Autarkis range of interpretations when it comes to the Second
+72 CHAPTER ONE: A WORLD OF DARKNESS
+The First Tradition:
+The Masquerade
+Thou shall not reveal thy true nature to those not of the Blood.
+Doing such shall renounce thy claims of Blood.
+The Second Tradition:
+The Domain
+Thy domain is thine own concern.
+All others owe thee respect while in it.
+None may challenge thy word while in thy domain.
+The Third Tradition:
+The Progeny
+Thou shall only Sire another with the permission of thine Elder.
+If thou createst another without thine Elder’s leave, both thou and thy Progeny shall be slain.
+The Fourth Tradition:
+The Accounting
+Those thou create are thine own children.
+Until thy Progeny shall be Released, thou shall command them in all things.
+Their sins are thine to endure.
+The Fifth Tradition:
+Hospitality
+Honor one another’s domain.
+When thou comest to a foreign city, thou shall present thyself to the one who ruleth there.
+Without the word of acceptance, thou art nothing.
+The Sixth Tradition:
+Destruction
+Thou art forbidden to destroy another of thy kind.
+The right of destruction belongeth only to thine Elder.
+Only the Eldest among thee shall call the Blood Hunt.
+VAMPIRE THE MASQUERADE 20th ANNIVERSARY EDITION 2
+Tradition. Some Princes maintain that the Second Tra-_ Te Sixth Tradition: Destruction
+dition applies only to those of their station, that a given ThelBed Hint eee ee eel eprint]
+city is entirely a Prince’s domain and that everyone in q hat decl i ‘ ; y
+it owes him fealty and perhaps tribute. Other Princes “he i i, i- ‘Ds ats He Cie a a one
+are much more liberal, granting each (acknowledged) qT € FIBHE © fae aie a“ wth Bl Mii ‘ra
+Kindred in her domain the power of sovereignty over me of t ¢ Tradition) £9. ra e B Sl tp
+their own territory. Most Princes fall somewhere in the tec forfeits h
+
+--- CHUNK 17 ---
+e paiiced pindreds unlit ee
+middle, acknowledging that each Kindred makes his te ultimate purse lewect for the most eneyoy
+own fortune and has a right to authority in areas ac- a iui Indeed, apss Ud $0 Sparing and so severely
+: in most domains that many Princes will even pardon
+cepted as his, but not complete autonomy. those Kindred who perform diablerie on a vampire un-
+The Third Tradition: The Progeny der the Lextalionis.
+Many if not most Princes require that prospective
+sires seek their permission before performing the Em- e
+brace to create fledglings. However, some domains in- Domains of the Dead
+ae = fo Sanily either the ckier of © vib A city’s Kindred society and even its mortal character
+eral domains are often the ones with the greatest Kin- depend a great deal upon which Sect holds sway there;
+dred populations, and often ones that come closest to if any Sect holds sway at all. Camarilla domains suelt
+jeopardizing the Masquerade due to Kindred overpopu- ** Chicago, London, and Paris look and feel a gree
+inne deal differently from Sabbat strongholds such as Mexi-
+co City, Detroit, and Montreal, which likewise have a
+The Fourth Tradition: The Accounting different cast than Anarch cities like Los Angeles, San
+This Tradition imposes a twofold rule. First, a sire Diego, and San Francisco.
+effectively owns her progeny until such a time as she Individual Kindred define these domains, of course,
+deems them fit to face Kindred society on their own. but simply learning which titles a city employs for its
+Second, a wayward childe brings trouble upon his sire’s high-status vampires can offer a wealth of insight to
+head, for the sire is responsible for the actions and con- _ the observer. For instance, if a Kindred learns that De-
+sequences of her childe until the point at which she is troit has an Archbishop, he’s pretty well assured that
+emancipated. This Tradition is simultaneously at the the city belongs to the Sabbat, while discovering that
+center of some Kindred’s policy of making their childer all of London is Prince Mithras’ domain lets the vam-
+earn their freedom through a long and arduous process, _ pire know that the city is one of Camarilla allegiance.
+and other Kindred’s policy of, “Fuck it; you’re a vam- The following titles describe the Sect alignment and
+pire now. Don’t ruin it for the rest of us or I’ll tear your quties of that title. Note that not every domain has
+heart out myself. Good luck.” a member of every given title. Indeed, some domains
+The Fifth Tradition: Hospitality have many members with a given title, while in others,
+A Prince has the right to dictate who may stay in his certain powerful Kindred may hold numerous titles, or
+: : ~ there might be so few competent Kindred that each
+domain and who must leave or suffer punishment. This F tattend t ltipl ibiliti
+Tradition also imposes the responsibility on a trav- eta naeasaendimaaiianeniisaeaiis eas Aiaaiaaaa
+eling or relocating Kindred to present herself to the ° ( ° )
+local Kindred authority and make herself known and Prince Camarilla
+accountable for any missteps. Again, this Tradition’s The preeminent vampire of a Camarilla city and
+enforcement falls to the whim of individual Princes. probably the most numerous position of ultimate au-
+Some are iron-fisted dictators who demand to know thority among Western Kindred, Princes are the rul-
+the comings and goings of all the Kindred in their cit- ers of given cities. Some Princes are tyrants or absolute
+ies, while others don’t mind so much as everyone heeds monarchs of the Damned while others are politically
+the other Traditions and doesn’t disturb the social or- feeble puppets propped up by more powerful support-
+der. ers, but the position of Prince is one acknowledged
+and even (grudgingly) respected by all vampires, even
+those not of the Camarilla.
+24 CHAPTER ONE: A WORLD OF DARKNESS
+A Prince’s duties and privileges are many, but the freedom fighter. A Baron forever straddles a fine line
+most important is th
+
+--- CHUNK 18 ---
+e interpretation and enforcement between being a wise leader and a power-mad autocrat,
+of the Traditions, particularly the Masquerade. Beyond and the impractical nature of revolutionary ideology
+that, a Prince has any individual powers he can claim dooms many of them when the nightly affairs of the
+and uphold, such as declaring Elysium, calling a Blood domain need attention.
+
+Hunt, adjudicating disputes between residents of his
+
+domain, the right to claim a blood-tribute, and poten- Other Titles
+tially even the right to name, ignore, or even disband .
+
+the Primogen. Camarilla
+
+Kindred of any age can in theory be Princes, but in Harpy: Harpies are the opinion leaders and the
+reality, praxis — the right of Princes to rule — goes trend-setters to whom other Kindred look when it
+only so far as the Kindred members of a domain respect Comes to matters of taste, style, philosophy, oa poli-
+and allow it. A weak or young Prince might be inef- tics. A Harpy’s word influences the domain’s attitudes
+fectual or even a laughingstock, while just speaking the and can be a powerful supporter of the status quoyons
+name of the aforementioned Mithras or Prince Lodin force for insidious change. Harpies are rarely appointed
+of Chicago might be enough to cause a shiver of fear directly (and Kindred rarely trust those who are). In-
+down the spines of those cities’ vampires. stead, a Harpy paradoxically becomes so by acting as
+
+The role of Prince is a complex and varied one and a Harpy. The Harpy’s role is often intertwined with
+much has been said about it, but ultimately, a Prince is domain politics, and it ts a bold or foolish Pring whe
+Ee domain neglects those vampires who represent the cutting edge
+
+: of popular opinion in her domain.
+Archbishop (Sabbat) Keeper of Elysium: This is a largely honorific title,
+; ; though it has many practical responsibilities. The
+
+With many of the same powers as the Prince, the Keeper of Elysium assures that the customs of Elysium
+Archbishop is the closest analog the Sabbat has to that a6 observed, and is a caretaker of sites declared Ely-
+position. An Archbishop is different, though, in that iim by a Prince.
+the Sabbat is less concerned with enforcing the Tra- s Tr iscei hich Iders beli
+ditions and more concerned with waging its holy war courge: onithis\Gme, woicn many elders pe saa
+
+; aoe be the Time of Thin Blood, the Scourge is responsible
+against the Antediluvians and everyone else. Thus, : . j
+the Archbishop is part spiritual leader and part war- for destroying those vampires of 14th and higher Gen-
+lord, advancing the Sword of Caine’s acenda and es eration. This is a position most often found in paranoid
+
+oA had : : agen domains where elders believe that fighting the symp-
+tablishing Cainite primacy. This last is a difficult task f the Final Nights will F th i ¢
+to undertake, as it’s not simply a question of turning a Gch, oF the final Nights. wil stave ol the come kg
+Sabbat city into a living hell and declaring that vam- enenna.
+pires rule; the fundamentals of the Masquerade and the Sheriff: The Sheriff is the Prince’s right-hand Kin-
+sheer weight of the mortal population means that is dred, responsible for the physical enforcement of
+a war to be waged in stages. Too many Sabbat fail to Princely decree. Some Sheriffs are diligent masters-at-
+understand this, especially among the young, and lose arms while others are thuggish, bloody fuckheads who
+faith in their leadership because they’re too impatient abuse their authority to torment those beneath their
+to play out the long-game Jyhad. This subversion of ig- station. A Sheriff may appoint Hounds to assist him
+norance is perhaps the Archbishop’s greatest challenge (or the Prince may appoint them, in the interests of
+FO overcome. curtailing a Sheriffs overt power).
+
+Primogen: Primogen is a flexible title. In some do-
+
+Baron (Anarch Movement) mains, a Primogen is simply the eldest and most influ-
+
+Much of Anarch philosophy decries the tyranny of ential Kindred 
+
+--- CHUNK 19 ---
+of a given Clan. In others, a Primogen
+Princes, but despite their name, the Anarchs often rec- is a member of a council of advisors to the Prince. In
+ognize that leadership in a domain is necessary. Thus, S°™© domains, Princes appoint the Primogen (and
+the Baron: a Prince in all but name and reputation. they may even appoint multiple Primogen of the same
+Many Barons take great pains to avoid Camarilla-style Clan, us keep that Clan dig) while in ee Glues,
+autocracy, but power can corrupt even the most zealous Primogen arise from among the most powerful mem-
+
+bers of that Clan or as a result of popular Clan politics.
+VAMPIRE THE MASQUERADE 20th ANNIVERSARY EDITION 25
+: i ss Rey tre S a
+a Ue BO LY
+eee | [-
+? . : >»
+NM ;
+ea |
+) F : Be
+This is perhaps the most difficult of Camarilla titles for anonymous existence of the Alastors can be a difficult
+anew Kindred to understand. one, it does have its rewards, specifically a more-or-less
+Justicar: These are the judges appointed by the In- universal immunity to prosecution from local Princes.
+ner Circle to be the Camarilla’s eyes, hands and, if nec- The Inner Circle: The true hub of the Camarilla,
+essary, fists. It is the Justicars who decide the punish- this group meets once every 13 years to plan out the
+ment for those who have violated the Traditions on a _ business and direction of vampire society — as much as
+widespread level. A Justicar serves for 13 years, and her any group can presume to dictate the doings of a race of
+actions may be challenged only by another Justicar. immortal predators. Every Clan is permitted one rep-
+Archon: Each Justicar selects a number of minions resentative, usually the eldest member of the Clan, as
+known as Archons, to act in his name as suits his pur- only the eldest may cast the Clan’s vote.
+poses. Archons are typically chosen from the upper Sabbat
+ranks of ancillae and occasionally elders of lesser sta- oa, ;
+tion. Justicars occasionally choose Archons to carry Ductus: Leaders of individual packs, Ducti attend to the
+out specific missions, and prefer political savvy, in- operation matters of their charges, resembling gang lead-
+sight, and skill over standing and clout. An ‘Archon’s ers or chiefs of small tribes. The title of Ductus is largely
+position typically lasts for as long as a Justicar wishes to honorific, according recognition to the most accomplished
+retain her, but no longer than the Justicar’s tenure. member of a pack. Some authority accompanies the title,
+; but the Ductus who throws his weight around is likely to
+Alastor: If the Archons and Justicars are the law find his ass dumped unceremoniously in a trash bin, if not
+Be cement aseces cr the Camarilla, re Alastor staked out to welcome the next sunrise.
+are the secret police. Moving unseen and unnotice i.
+through the Camarilla, they serve a variety of purposes Pack Priest: Priests bear the responsibility for the
+BY chal er Circle's ‘command Mostly: however, the spiritual wellbeing of their packs. Second in command
+5 ee En oetous pis x Hes Ca © the Ductus, the Pack Priest officiates all the rituals
+marilla — those on the elle “Red List.” While the observed by the pack, and often. creates a few for the
+sole use of the pack. All packs have at least one Pack
+26 CHAPTER ONE: A WORLD OF DARKNESS
+Priest, though some rare and large packs have two. even within the accepted dogma are numerous enough
+In the event that the Ductus is eliminated, the Pack — to fuel any number of holy wars.
+Priest becomes a temporary leader until a new leader
+can be appointed by the Bishop, Archbishop, or (in First Vampire, First Murderer
+autonomous packs) the pack itself. And the Lord said unto him, “Therefore whosoever
+Templar: Also known as Paladins, the Templars are slayeth Cain, vengeance shall be taken on him sevenfold.”
+an elite force of bodyguards appointed by a Bishop or And the Lord set a mark upon Cain, lest any finding him
+greater leader. Templars serve a variety of duties, always — should kill him.
+in a ma
+
+--- CHUNK 20 ---
+rtial capacity. Most Archbishops keep a cadre G is 4:15
+of Paladins in their retinues to handle delicate matters ~ venesis
+best solved by a judicious application of violence. With these words, many vampires trace their origins
+Bishop: Bishops are those immediately below the back to Biblical times. Caine, son of Adam and brother
+Archbishop in Sabbat domains, with the same hich- of Abel, slew his sibling in sacrifice to God, and in so
+eee uti P , : a doing was cast out, becoming the first vampire as God
+evel duties but much narrower scope. A Bishop may : 7 :
+be in charge of a single aspect of Cainite unlife in the withdrew His grace from the exile.
+domain, or she may be a more general spiritual leader, Thereupon, the tale diverges any number of times,
+inquisitor against diabolism, military general, or any but most Kindred scholars, eschatologists, priests, and
+other specific aspect of Sabbat agenda. Some Sabbat speculators agree on this first point.
+domains have no Archbishop, but are instead ruled by Caine, as the First Vampire, wandered the Land of
+a council of Bishops. Nod, where he eventually passed on his curse, Embrac-
+Priscus: Superficially, a Priscus is similar to a Pri- ing those who would become known as the Second
+mogen, but is never appointed by an Archbishop or Generation. Their names are lost or vaguely known
+Bishop; Prisci rise to the rank over time and according +— the names most commonly agreed upon are Enoch,
+to no specific criteria. A Priscus, politically, is an advi-_Itad, and Zillah — and they eventually begat the Third
+sor to the local Sabbat authority figures, with no formal Generation, who would become the progenitors of
+role in Sect politics but great practical influence. what Kindred understand tonight as Clans. The chro-
+Cardinal: Cardinals oversee Sabbat affairs in large nology of Canes life;;cursepand subsequent icavealy
+: ; : : are recorded in the Book of Nod, a document as close
+geographical regions. As the superiors of the Archbish- ¥ , ate, ’
+ops, Cardinals coordinate the Sabbat in their cities and Coy vampire Bible as the Kindred are apt to come.
+di hem in the Jyhad. Further, it is their direct dut The book itself is as much myth as fact: Any number
+irect t y , y
+to bring any cities within their territory under the Sab- of editions of varying reliability have surfaced in the
+bat’s sway. Most Sabbat see their Cardinals no more millennia since Abel’s death, from crude clay tablets
+than once per year, if at all, as the duties of the office to the most widely accepted version, collected by the
+keep them in constant communication with Bishops, renegade Aristotle de Laurent and disseminated by
+Archbishops, Prisci, and the Regent herself. his protégés and allies. Even Aristotle’s version is sus-
+, , pect, as it contains Kindred apocrypha from a variety
+Regent: The Regent is the ultimate authority over of sources, and the whole thing itself cannot possibly
+all of the Sabbat, ruling the Sect from the Sabbat he original. Still, as an item of faith, it commands the
+stronghold in Mexico City. Each of the Archbishops — }earts and minds of many Kindred, from fiery Sabbat
+or councils of Bishops is ultimately accountable to the priests to spiritual Camarilla disciples and devout An-
+Regent. archs.
+Long have the Kindred sought Caine himself, though
+The Mytholo of the First Vampire hasn’t been reliably sighted outside
+gy the Biblical times that provided his origin. Still, un-
+th D d verifiable Caine sightings have shown up throughout
+e amne time, as Kindred seek for any symbol of faith to an-
+Exactly what causes the state of vampirism is a source chor their despair or dread. Likewise, fragments of the
+of much debate among the Damned. Even though most Book of Nod occasionally surface in various domains or
+Kindred agree on their point of origin, the idea itself is 2008 ruins that just happen to find their way back
+inherently unverifiable, and the points of contention into Kindred possession.
+VAMPIRE THE MASQUERADE 
+
+--- CHUNK 21 ---
+20th ANNIVERSARY EDITION 27
+The whole matter of Caine and the Book of Nod is a Naturally, the elders hate and fear diablerie (though
+powder keg each time it rises to prominence in a giv- it would surprise many neonates and ancillae to discov-
+en city. The Camarilla generally believes the myth of er how many elders attained their own Generational
+Caine to be just that: a parable with perhaps some basis potency by destroying their own sires and elders). Also
+in truth, but largely symbolic. The Sabbat takes the known as Amaranth, diablerie is the greatest crime a
+whole matter quite literally, and their faith in dooms- Kindred can commit against another vampire.
+day prophecies (many of which originate with the ... At least in some circumstances. In others, dia-
+Book of Nod itself) causes no end of strife. The matter Jere is not only permitted but encouraged. For exam-
+of Caine is indeed a religion among vampires, fraught ple, a Prince who declares a Blood Hunt often decrees
+with all of the zealotry, intolerance, devotion, pride, that those who diablerize the outcast will be pardoned.
+and fear that accompany all matters of faith. Further, in the Sabbat and in certain Anarch domains,
+
+How is it, then, that some foundation of the tale of — diablerie is an acceptable (and even honored) method
+Caine survives and even thrives among all Kindred? of promotion and advancement. After all, if a vampire
+The answer is simple: The potency of a Kindred’s vi- _ lets himself be diablerized, well, he must have been too
+tae reflects her distance in Embrace genealogy from the _ weak to use that power effectively.
+
+First Vampire. .
+G ti Understanding the
+oe _ Generations
+
+Among vampires, the notion of Generation is a con-
+cept that describes how distant one is from the First Although Generation conceptually has only a finite
+Vampire. When a Kindred Embraces, her childe rises number of gradations, the significance of the Genera-
+from death one Generation higher than she — one tions is more important than a mere ordinal number.
+more Generation removed from Caine. The Clan Certain Generations correspond to certain social dis-
+founders comprised the Third Generation, their prog-  tinctions of the Damned, and a Kindred’s Generation
+eny became the Fourth Generation, their childer bee ™2Y mark her for a vast and terrible destiny or as the
+came the Fifth Generation, and so on and so forth up harbinger of a dread fate.
+through the distant Thirteenth Generation prevalent Second Generation
+ieaemiodern nights, The most widely acknowledged version of the Book
+
+This explanation creates confusion of its own, how- of Nod claims the number of second Generation Kin-
+ever. “Third Generation” ostensibly means that these dred is three. In its chronicles, Caine Embraced these
+Antediluvians were three Generations away from unknowable Ancients to dwell with him in his great
+Caine, but the prevailing mythology names only two. city of Enoch and give him succor. Given to the “An-
+If Caine himself isn’t “zero Generation,” what ishe one — tediluvian” moniker of the Third Generation, those
+Generation removed from? Kindred who delve into such mysteries assume that the
+
+Generation determines a great deal about Kindred Second Generation was slain either during the Deluge
+potential. Mastery of certain Disciplines relies upon a__ or in the kinslayer times following the Flood. As one
+certain threshold of Generation, for example, as does might expect, all those of age are reluctant to speak of
+the ability to store vast quantities of blood within the _ their sires and the great strife that overcame them all.
+vampire’s body. Some ancient Kindred need to feed Undoubtedly, some know more than they are reveal-
+only when the desire takes them, so great are their re- ing.
+serves of vitae. Were any of the Second Generation still in existence
+Diablerie: The Amaranth today, they would be impossibly powerful beings. Some
+
+: ; , Clans claim that their progenitors are in fact mem-
+
+Along with advance
+
+--- CHUNK 22 ---
+d Generation comes a price, bers of the Second Generation rather than the Third
+however. Generation equals raw power potential, and Generation, as is commonly assumed of Clan founders
+those of higher Generation seek the power of their el- Th. lai , iewed ; hing f def fl
+ders. By slaking one’s thirst on the heart’s blood of a b ese Clalms are viewee! as evegong rom privy
+
+: . “oe _ oasts to foulest heresy by those who place great stock
+vampire of lower Generation — drinking the vampire’s in matters regarding Kindred origin.
+soul in a transgression known as diablerie — a Kindred
+can lower her own Generation.
+28 CHAPTER ONE: A WORLD OF DARKNESS
+Third Generation Generations. Although the power of blood of Caine
+
+N va éf F falls off greatly this many Generations removed, those
+
+umerous terrifying tales of the Third Generation : .
+
+; ; of the Fourth Generation are still extremely powerful,
+exist, though the names of only two, Lucian and Me- odlike in the eves of a mortal or fledgline vampire
+khet, are widely known. Tonight, they are referred to ® y une pS
+as the Antediluvians, and they are the founders of the Sixth, Seventh, and Eighth
+13 great Clans. If any survive, they remain hidden, in- .
+tentionally obscured by the depredations of the Jyhad. Generations ;
+
+They may still exist, collectively or in some fraction of Vampires of these Generations are the Ones mes
+their original number, but now instead of openly war- commonly described oS elders, and they remain deeply
+ring as the Babkof Nodaecountsithey mays inca deeper involved in Kindred society. Their movements domi-
+struggle. Indeed, Jyhad seems to be their primary en- ate the actions of the most populous Sects (at least
+gagement, as WEEE eatever moves © hear them tell it), and their numbers comprise the
+their opponent eal majority of local authorities. Those who remain in po-
+
+Th . ———— f sitions of visibility tend to be important figures: lead-
+
+‘ne actions of the Antediluvians range trom some- a+. of Clans or bloodlines, Princes, Primogen, Bishops,
+thing as petty as the acquisition of a piece of artwork Archbishops, Anarch Barons, and the most notable
+to grand schemes involving nations, and almost none Autarkis. Many of the Prines of European cities tend
+are classifiable as the movements of Ancients while to be of the Sixth Generation. Princes of American cit-
+they're happening, so subtle are these inhuman master ies tend to be of the Seventh or Eighth Generations.
+vampires. Those of the Third Generation must by this : : . :
+point be wholly other, split between those who would pines of as ge Generation
+share the world with mortals and those who would re-  S€¢™ €0 be the last Auncired clescribec! as elders by those
+make the world so that it quivers beneath their gaze. ¢¥e? older than they. Perhaps it is because the majority
+Alternatively, some among the Third Generation may of them Sa created before the modern age, and that
+have reached Golconda or seek to help others of their 'S evident in their manner and bearing. Then again,
+kind attain this state. Of course, they, too, must play at perhaps it is very dry sarcasm. directed toward everyone
+Jyhad with the other ancients who do not wish this to below the rank of an irascible Methuselah.
+
+SOmEALO Pass. Ninth and Tenth Generations
+
+Those of the Third Generation are terrible beings, Although they are occasionally called elders, these
+with abilities and powers only guessed at by their less- Kindred just as often move with members of the
+ers, having been Kindred for eons longer than they younger Generations, especially in the New World.
+held mortal perspectives. Some say they can die the Members of these Generations are frequently called
+Final Death only if they choose or are slain by one of  ancillae, though this is often based on age and accom-
+equal power. Is this, perhaps, the Jyhad —amaneuver- — plishment more than Generation. Most were created
+ing to see who shall be the last of their kind? in the modern era, and thus are so
+
+--- CHUNK 23 ---
+mewhat alien in
+Fourth and Fiith Generations temperament to the older Kindred. In more ways than
+
+: one, they bridge the gap between the neonates and the
+
+These vampires are known as the Methuselahs, and true elders
+they are nearly as powerful and secretive as the Antedi- ,
+luvians. Those of the Fourth and Fifth Generations are Eleventh, Twelfth, and Thirteenth
+most often the most powerful allies, agents, or pawns in Generations
+the Jyhad, as their povRgiaiammeay’ the prestize of The most recent Generations of Kindred are often
+the Third Generation. As a result, their numbers have led tes. Most of the Kindred in th 4
+dwindled throughout millennia of conflict with each cal CO NEONATES. NOS Oem 1D Tee 1 Ne Rate
+other and greater, darker entities. Few of this Gen- nights belong to~thag@{i@Emei@tions — they may out-
+ain pee Some ma ‘sek refuge amon number the elder Generations by four-to-one or more.
+Ee ou ‘or Tal’Mahe’Ra to ON the h had a Born within recent memory, the Kindred of these Gen-
+di i‘ : ena erations are products of societies that have received the
+
+iablerie. The Inner Circle of the Camarilla is said to — .
+
+7 : vs . benefits of, and been victims of, rapid change. Most
+consist of multiple Methuselahs. Some critics believe tellinely. th bas Kindred wh. a
+that the true purpose of the Sects is to blunt the efforts“ arene ah ‘¢ f ia ee Lite ae - Fs é,
+of the Third Generation to manipulate the younger SP’ WH MOceM Fecano ple gated eg / ein ere
+
+VAMPIRE THE MASQUERADE 20th ANNIVERSARY EDITION 29
+by but actually accustomed to information traveling at an enlightened state somehow “beyond” vampirism,
+the speed of digital data, and would find a handwrit- wherein the Kindred no longer must worry about the
+ten message dispatched on horseback to a superstitious Beast or its base hungers.
+peasant village 500 miles away unspeakably quaint and Golconda’s fabled state may eclipse its truth. Few
+inefficient. These are the Kindred of the information jndred know anyone who claims to have achieved
+generation, the ones using social media and computers Golconda, and fewer still have actually reached its
+and changing what it means to be a vampire. lofty heights. None can say exactly what Golconda is,
+Fourteenth and Fifteenth Generations and it remains a matter of faith or an objective of phi-
+; : losophy more so than actual practice. Are those who
+There are exceedingly few Kindred of these Gen- :
+: have reached Golconda saints who have transcended
+erations, and none beyond. Indeed, those of the 15th . :
+, : : ._ what it means to be a vampire, or have they somehow
+Generation have failed to sire any progeny. Their
+° : managed to free themselves from the burdens of vam-
+blood is far too thin, and they are too removed from _... a ; ,
+
+: : pirism? Is the vampire in Golconda beatific, or is she a
+Caine, to be able to pass on the curse. Rumors persist monster without even those moral underpinnings that
+about vampires siring not childer but children and other > E a
+
+‘ : challenge the rest of the Cainite race?
+things never before wondered at in the Book of Nod. ;
+But the Book of Nod is definitely clear about one thing: Those who have attained Golconda offer no an-
+The rise of the Thin-Blooded is one of the signs of the SW°TS-
+End Times, and Gehenna is nigh.
+e
+exc. = coccac, Uther Denizens of the
+As vampires tell it, the time of Gehenna is the en
+of the world, at least for their race. The skies will rain World of Darkness
+blood and purge their numbers from the world. The § <>
+slumbering Antediluvians will rouse themselves from Vampires aren’t the only supernatural creatures to
+their primordial slumber and devour their childer. stalk the shadows of the World of Darkness. The dark-
+Caine himself will return and demand an accounting SS belongs to many other mysterious and horrific Gare
+of his degenerate race, and God himself will strike the "es, some of whom also prey on mortals, while others
+Kindred from the face of Creation into hell itself. fen among o
+
+--- CHUNK 24 ---
+n or “he ai them. hove ‘tthe
+t tt thers,
+All Kindred fear Gehenna, whether they consciously any general SA ea eae a a
+
+‘ ~. ‘ : though, it’s that the Kindred don’t know much about
+believe in it or not. The reason is plain: Few of them : ;
+
+, : : . them. The converse is equally true, and any interac-
+believed in vampires before they became Kindred, and. :
+
+. ' : tion between the race of Caine and the other monsters
+the dawning horror that there is more in the world orn : :
+en : who prowl the night is going to be tentative and suspi-
+than the mortal imagination can fathom can certainly cious, if not downright hostile and violent
+prove frightfully true even to the vain Cainite frame , 8 ,
+efimind: on me information on these antagonists, see
+apter Nine.
+Gehenna is not a question of if, but when. Only the P
+most stubborn of Kindred could possibly ignore the
+litany of prophecies that spell out the conclusion of Hunters
+the End Times. The End is here. When is the End of | What remains of the Inquisition — the post-medieval
+the End? “hammer of witches” endowed by the Church with the
+means and authority to stamp out heresy and diabolism
+Golconda — still exists tonight, albeit in a much changed format.
+The constant pressure of paranoia, apocalypse, Jy- Tonight, the Inquisition and other vampire hunters
+had, and the existential horror of subsisting on human hunt the creatures of the night with firearms as well as
+blood is too much for some Kindred. Indeed, given faith, and with an uncanny insight that makes under-
+eternity, who would want to spend it in the state of — estimating these individuals very dangerous. Govern-
+terror that surrounds the Kindred on any given night? ment agencies also keep an eye on the movements of
+In order to ease themselves out of the Jyhad and the _ the undead, and even unaffiliated groups have a keen
+predatory state of being, some vampires pursue the jnterest in the supernatural occupants of the world
+path of Golconda. According to rumor, Golconda is they share. These agents are all mortal — at least, so
+30 CHAPTER ONE: A WORLD OF DARKNESS
+the Kindred hope — though some possess knacks or . at
+abilities that can only be described as supernatural. on 4a - oF ae,
+Werewolves A - A
+
+One of the reasons the Kindred keep to their urban
+domains is that the wilderness beyond the glow of the y oN —
+city lights harbors the Lupines. These savage creatures - é
+appear to be mad with rage, changing into their wolf- on ti
+form seemingly at will and lashing out violently when
+someone rouses their ire. Some even believe they can
+step wholly out of the world and into a realm of moon- a Wf
+shadow, where vampires may not follow. They wage an ;
+ages-old war with the Damned that few Kindred un- : {
+derstand tonight, though they certainly comprehend a ( Ie
+the catastrophic violence the wolf-men are able to in- F) . : \ c be
+flict. Indeed, even a young Lupine seems to be at leasta [ij , : or
+match for an entire coterie or pack of vampires, so wild \ ge uy > if a
+are they in combat, and so resilient. A few bold groups at x d Tey
+of vampires hunt Lupines for thrill or duty, but when ie Pas 3 : WY
+the prey is something that has the ability to strike down 2 ) hy i ( am ’ are
+even a potent elder, wiser Kindred choose the path of 4 ({ \ — ,
+avoidance. Ta | a ta y
+
+pean 5
+agi | . “SS ; ess
+
+As Shakespeare once said, “there are more things in ak i aa
+heaven and earth... than are dreamt of in your phi- ; *  @ A
+losophy.” So it is with the magi, exceptionally gifted » , 7
+mortals who have the ability to simply will their desires q i ~ mf
+into being. In simplest terms, the magi wield “magick,” ey) SS} LY) i; Sa
+but there is more to it than that: They possess a cosmic Pass dl ts
+understanding and acumen that eludes even the sor- [abe S 4} a y
+cerous Tremere and the seekers of secrets among the % = 4 : AN hi 1
+Followers of Set. As Kindred understand it, the magi Ad ‘a Cs
+are mortal and thus comparatively fragile, but few wish a Apo
+to put to the t
+
+--- CHUNK 25 ---
+est the incomprehensible wiles of an en- a ae,
+lightened witch who has the power to slay a Cainite & fo
+with a thought or who can summon a gout of holy fire wy 5 _——7
+to scorch a vampire to cinders from within. The magi J ‘ =, : a hp
+seem to have various orders and schools of magick NN JEN ~— -
+among themselves, but these distinctions are largely Sa te f
+irrelevant to vampires, who feel that the witches see & Seer Zs "
+them as a sort of commodity to be collected or as a nal,
+mystery to be dissected and mastered.
+The Wild Ones b
+
+Nature spirits, faeries, the Good Folk, the Others.
+Whatever the local term for them is, they are the alien 7%, a
+outsiders who have claimed dominion over the strange
+corners of the world since before Man was sophisticat-
+
+ty
+VAMPIRE THE MASQUERADE 20th ANNIVERSARY EDITION Si
+ed enough to sense their passing. They are a strange e
+confederation of legends, possessed of inscrutable goals Lexicon
+and unknowable desires. A Kindred who crosses paths ; ; ; oF
+i ond may depait ethronly a vague sense of good The Kindred have their own dialect of specialized
+fortune, while the next time he earns the attention of words a phe Vase eve a cement er
+the fae, he may lose his very identity. If any general P@CtY for couble-talk; what they say often means
+statement may be made about the Others, they seem something other than or in addition to its literal inter-
+to belong to two different courts of philosophy, but pretation. Certain words have evolved new connota-
+neither of them has any consideration for vampires, so “ONS among ee Damned, wile orhes i. ae te
+dealings depend entirely on each creature’s caprices. Y2/MPITES A wher E loots i inared, set tat a
+Fortunately, the faeries have no overarching interest “YS 85 ey are, ate Toath to acopt new manners o
+Mivyampiric affairs. If, by somé tragedy, they take an speech or slang, and one can often determine a rough
+interest, the vampires may well find themselves victims estimation of if v hae s age by listening to the indi-
+of cruel jokes or deadly vendettas. Via” WETS SDE CHOOSES:
+
+Common Parlance
+Ghosts These words are in common use among all echelons
+
+Vampires aren’t the only denizens of the World of of Kindred society.
+
+Darkness to persist beyond the event of death. There is Anarch: 1) A member of the Anarch Movement. 2)
+
+a Veil perween ihe worlds of the living and det and Any Kindred rebel who opposes the tyranny of elders.
+
+any number of ghosts, spirits, shades, wraiths, and other . -.
+
+remnants of the unquiet departed attend to their unre- Anarch Movement, Thes The Sect within shetee
+
+solved matters this side of it. Some Kindred compre- marilla comprised of Anarchs who want to reform or
+
+hend the mysteries of wraiths, such as the necromantic overthrow the rule of the elders. ; =
+
+Giovanni and perhaps a few macabre Tremere or enig- Barrens, The: The areas of a city unfit for life, pee
+
+matic members of the True Black Hand, but even these cluding graveyards, abandoned buildings, industrial
+
+vampires deal with the restless dead on their own terms wastelands, and areas of irreversible urban blight.
+
+rather than those of the ghosts themselves. Sages, schol- Becoming, The: The moment one passes from be-
+
+ars, and eschatologists among the race of Caine believe _ ing a fledgling into “full” vampire status as a neonate.
+
+that the ghosts have a complex and immortal empire of In the Camarilla, one may not Become until her sire
+
+their own beyond the Veil, and that those with whom deems her ready and gains the Prince’s approval.
+
+the Kindred come in contact are those somehow exiled Book of Nod, The: A collection of Kindred legend
+, 3
+
+from the realms of the Underworld. Certainly, Cainites 44 history
+
+kill enough of their vessels to create no few ghosts of : . ;
+
+their own, and it’s often a cold confrontation with real- Beast, The: The inchoate drives and urges that
+
+ity when one discovers that he’s haunted by the shade threaten to turn a vampire into a mindless, ravening
+
+of his 
+
+--- CHUNK 26 ---
+last bloody conquest. monster.
+
+Blood: A vampire’s heritage; that which makes a
+
+And Everything Else vampire a vampire. Usage: I doubt her claims to such
+esteemed Blood.
+
+Demons. Devils. Mummies. Shapeshifters. Golems. ; DET
+Creations of abused science or perverted natural law. blood bond: A mystical power over another individs
+These and more might occupy some tenebrous corner ual engendered by partaking of a particular vampire’s
+of the World of Darkness, wielding powers heretofore blood thrice; accepting blood from a vampire is an ac-
+unseen by the Kindred or perhaps known only to cults knowledgment of her mastery.
+or secret societies. Whatever nightmare form a horror —_ Caitiff: A vampire of unknown Clan, or of no Clan
+takes, it’s probably out there, seething, hating both at all. Caitiff are typically of high Generation, where
+the world of the living and the shadow world of the Caine’s blood is too diluted to pass on any consistent
+Damned. Tread carefully, Kindred. characteristics.
+
+Camarilla, The: A Sect of vampires devoted primar-
+ily to maintaining the Traditions, particularly that of
+the Masquerade.
+
+32 CHAPTER ONE: A WORLD OF DARKNESS
+childe: A vampire created through the Embrace — Hunger, The: The urge to feed. For vampires, the
+the childe is the progeny of her sire. This term is of- Hunger replaces all other drives with its own powerful
+ten used derogatorily, indicating inexperience. Plural call.
+childer. Inconnu: A Sect of vampires who have removed
+
+Clan: A group of vampires who share common char- themselves from Kindred concerns and, largely, the
+acteristics passed on by the blood. There are 13 known Jyhad. Many Methuselahs are rumored to exist among
+Clans, all of which were reputedly founded by mem- _ the Inconnu.
+bers of the Third Generation. Jyhad, The: The secret, self-destructive war waged
+
+coterie: A small group of Kindred, united by the between the Generations. Elder vampires manipulate
+need for support and sometimes common interests. In _ their lessers, using them as pawns in a terrible game
+the Sabbat, coteries are called “packs.” whose rules defy comprehension.
+
+diablerie: The consumption of another Kindred’s Kindred: The race of vampires as a whole, or a single
+blood, to the point of the victim’s Final Death. Vam- vampire. According to rumor, this term came about in
+pires may lower their Generation permanently through the 15th or 16th century, after the Great Anarch Re-
+this abhorrent practice. volt. Sabbat vampires scorn the term, preferring the
+
+domain: The area of a particular vampire’s influence. word “Cainite” instead.
+
+Princes claim entire cities as their domains, sometimes Kiss, The: To drink blood, especially from a mortal.
+
+allowing lesser vampires to claim domain within. The Kiss causes feelings of ecstasy in those who receive
+elder: A vampire who has experienced at least two it:
+
+or more centuries of unlife. Elders are the most active Lupine: A werewolf, the natural and mortal enemy
+
+participants in the Jyhad. of the vampire race. Plural Lupines.
+
+Elysium: A place where vampires may gather with- Lush: A vampire who typically feeds from drugged
+out fear of harm (although some Sects, such as the or drunk mortals in order to experience their inebria-
+Sabbat, respect Elysium less than the Camarilla does). tion.
+
+Elysium is commonly established in opera houses, the- Life, The: A euphemism for mortal blood. Many
+aters, museums, and other locations of culture. Kindred regard this term as affected and effete.
+
+Embrace, The: The act of transforming a mortal into Man, The: The mote of humanity that a vampire
+a vampire. The Embrace requires the vampire to drain maintains; the spark of mortality that distinguishes
+at a and then replace that victim’s blood with a fim from the Beast.
+
+it of her own.
+
+: ; : Masquerade, The: The habit (or Tradition) of hid-
+
+Final Death, The: When a vampire ceases C0 xis, ing the existence of vampires from humanity. Designed
+crossing the line from undeath into death. to protec
+
+--- CHUNK 27 ---
+t vampires from destruction at the hands of
+
+fledgling: A newly created vampire, still under her mankind, the Masquerade was adopted after the Inqui-
+sire’s protection. sition claimed many Kindred unlives.
+
+Gehenna: The rumored Armageddon when the An- Prince: A vampire who has claimed a given expanse
+tediluvians will rise from their torpor and devour the — of domain as her own, generally a city, and supports
+race of vampires and the world. that claim against all others. The term can refer to a
+
+Generation: The number of “steps” between a vam- Kindred of either sex. In the Sabbat, this Cainite is
+pire and the mythical Caine; how far descended from called the “Archbishop,” and in Anarch cities she is
+the First Vampire a given vampire is. called the “Baron.
+
+ghoul: A minion created by giving a bit of vampiric Rogue: A vampire who feeds upon the vitae of other
+vitae to a mortal without draining her of blood first Cainites, out of necessity or depravity.
+
+(which would create a vampire instead). Sabbat, The: A Sect of vampires that rejects human-
+haven: A vampire’s “home”; where she finds sanctu- ity; embracing their monstrous natures. The Sabbat
+ary from the sun. is bestial and violent, preferring to lord over mortals
+rather than hide from them.
+VAMPIRE THE MASQUERADE 20th ANNIVERSARY EDITION 33
+Sect: A group of vampires arguably united under a Gentry: A Kindred who preys at nightclubs, bars,
+common philosophy. The three most widely known and other establishments of the “red-light district.”
+Sects currently populating the night are the Camarilla, Golconda: A fabled state of vampiric transcendence;
+the Sabbat, and the Anarch Movement. the true mastery of the Beast and balance of oppos-
+
+sire: A vampire’s “parent”; the Kindred who created ing urges and principles. Rumored to be similar to
+her. mortal nirvana, Golconda is greatly touted but rarely
+
+vessel: A source of vitae for sustenance or pleasure, achieved.
+primarily mortal. Humanitas: The extent to which a Kindred still
+maintains her humanity.
+Old Form ;
+; . kine: A term for mortals, largely contemptuous. The
+
+The elders typically use these turns of phrase, which hrase “Ki an
+
+; ; ° phrase “Kindred and kine” refers to the world at large;
+have existed since long before the modern nights. One :
+: J : everything.
+is advised to use these words carefully — in some com- : ,
+pany, their use may be seen as humorously anachro- Leech: A human who drinks vampire blood, yet ac-
+nistic, while in the company of Anarchs, for example, knowledges no master.
+they may be misconstrued as elders’ propaganda. Lextalionis: The code of the Kindred and the system
+
+Amaranth: The act of consuming another Kindred’s for punishing transgression; the blood hunt. It suggests
+
+blood, q.v. diablerie. Hammurabian or Biblical justice — an eye for an eye,
+‘ « ” F and punishment in keeping with the grievance.
+ancilla: A “proven” vampire, between the elders and
+the neonates. Plural ancillae. lineage: A vampire’s bloodline; the Kindred’s sire,
+s . ; sire’s sire, etc.
+
+Antediluvian: A member of the dreaded Third Gen- , , ;
+
+eration, one of the eldest Kindred in existence. ; Methuselah: A voles wpe has existed for a mil-
+
+; ticipat
+antitribu: An “anti-Clan,” or one whohasturnedher poy ee ye On ger PaaS
+in Kindred society. Methuselahs are rumored to hail
+
+back on the Sect that her Clan has founded (usually by . :
+
+= = ? from the Fourth and Fifth Generations.
+
+joining the Sabbat). Some antitribu have evolved into
+
+new bloodlines. neonate: A young Kindred, recently Embraced.
+
+Autarkis: A Kindred who remains outside the larger Papillon: The red-light district; the area of town
+vampire society of a given city and often refuses to ac- punctuated by drinking establishments, brothels, amg
+knowledge the claim of a Prince, Archbishop, or Baron. bling houses, and other locales of ill repute. The prime
+
+hunting grounds of a city, where the disappearance
+
+blood oath: See blood bond. . . A
+
+of mortals goes hand in hand with the area’s
+
+--- CHUNK 28 ---
+ general
+
+Cainite: A vampire; a member of the race of Caine. — seediness.
+
+Canaille: The bovine masses of humanity, especially progeny: All of a given vampire’s childer, collectively.
+the ae and unsavory The Canaille are viewed praxis: The right of Princes to govern; the Prince’s
+prmarty 48 a source oF sustenance. claim to domain. This term also refers to the Prince’s
+
+Cauchemar: A vampire who feeds exclusively on matters of policy and individual edicts and motions.
+sleeping victims. regnant: A Kindred who holds a blood bond over
+
+consanguineous: Literally, “of the same blood,” gen- another.
+erally denotes lineage. retainer: A human who serves a vampiric master.
+
+Cunctator: A vampire who avoids killing when de- This term is almost archaic, referring to a time when
+livering the Kiss; one who takes so little blood as to vampires kept vast entourages of mortal servants as
+avoid bringing about her prey’s death. part of their estates.
+
+domitor: A ghoul’s master; one who feeds her blood Siren: A vampire who seduces mortals in order to
+and issues her commands. drink from them, and then only takes a small quantity
+
+Footpad: One who feeds from derelicts and other of blood, so as to avoid killing them.
+chaff of society. Footpads may not maintain permanent Suspire: The rumored epiphany experienced just
+havens. prior to the attainment of Golconda.
+
+34 CHAPTER ONE: A WORLD OF DARKNESS
+Third Mortal, The: Caine, who was cast out and Casanova: A vampire who seduces mortals to take
+became the First Vampire. their blood, but does not kill them. Casanovas typi-
+
+thrall: A vampire under the effects of a blood bond, cally erase the memory of their presence from their
+having drunk another Kindred’s blood thrice. vessels’ minds (see Cauchemar).
+
+vitae: Blood. Change, The: The moment an individual ceases to
+
+b tal and b f the Kindred.
+
+whelp: A derogatory term for a young Kindred, origi- ea renee NG comes Ole © ; ° mare F
+nally used with exclusive reference to one’s own progeny. Damned, The: The race of Cainites; all vampires.
+
+Wight: Human; man; a mortal. donor: A sarcastic term for a vessel, typically hu-
+
+Witch-hunter: A mortal who searches out and dee"
+stroys vampires. Farmer: A term of mockery for vampires who refuse
+
+, . to feed on human blood, instead taking sustenance
+
+Whig: A contemptuous term for a vampire who pos- from animals
+
+sesses an interest in mortal trends and fashions. ,
+fief: A sarcastic term for a vampire’s domain or claim
+Vulgar Argot thereof, most commonly used in reference to a Prince.
+
+These terms are slang, the modern equivalents of head: A Kindred who feeds upon those who have im-
+older turns of phrase which have fallen out of favor due — bibed alcohol or drugs, so as to vicariously experience
+to their association with the elder ranks. These words the same sensations. Those Kindred who prefer indi-
+are associated with the younger Kindred, who seek to vidual drugs have their “poison” prefixed to the term
+establish their own vampiric cultures. head (e.g., methhead, dopehead, smackhead).
+
+Alleycat: A vampire who keeps no permanent haven, Headhunter: A vampire who hunts and feeds from
+but sleeps in a different location each night. This term other Kindred (see Rogue).
+also refers to a vampire who feeds exclusively from the se _—
+
+: juicebag: A contemptuous term for mortals, indicat-
+homeless, vagrants, and other elements of low society. ; : woul
+ing that their sole use is for sustenance. Also “juice
+banking: The practice of “withdrawing” blood from box.”
+blood banks and hospital reserves. This blood has little Lick: A vampire; one of the race of Kindred.
+taste, though it will sustain a vampire, and elder Kin- f a
+dred eschew this base indulgence. A Kindred who en- Rack, The: The hunting ground of choice, includ-
+gages in this practice is known as a Banker. a Pe ina aed dens, whorehowes a one
+’ t t
+
+Black Hand: A mistaken misnomer for the Sabbat as Hane (see Pap illon). eee EO SSIS onal
+a whole used by Camarilla vampires (the Bla
+
+--- CHUNK 29 ---
+ck Hand is P -, , ;
+actually a faction within the Sabbat). takes A aie eee eG the vk especially in
+
+the interest i try).
+
+Blister: A vampire “Typhoid Mary” who contracts a € Interest in see Sentry ;
+mortal disease and spreads it to each vessel upon whom ‘Sandman: A vampire who feeds only upon sleeping
+hel feeds: victims.
+
+bloodline: 1) A vampire’s heritage (see lineage). 2) slumming: The practice of feeding from derelicts,
+A pedigree of vampires similar to a Clan, but that can- the homeless, and other dregs of society; one who does
+not trace their creation back to one of the Third Gen- this regularly is known as a Slummer.
+eration. Stalker: A mortal who hunts down and destroys
+
+blood doll: A mortal who freely gives her blood to a Kindred (see Witch-hunter).
+vampire. Most blood dolls gain a perverse satisfaction Tease: A term for a female Casanova.
+from the Kiss, and actively seek out vampires who will turf: 1) A modern affectation used in reference to a
+take their vitae. domain. 2) The area under a given gang’s influence.
+
+Butterfly: One who mingles among the mortal high- Vegetary: A term of contempt for one who drinks
+ee clement and feeds exclusively from the famous exclusively from animals (see Farmer).
+and wealthy.
+
+VAMPIRE THE MASQUERADE 20th ANNIVERSARY EDITION 35
+
+
