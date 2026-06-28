@@ -68,7 +68,6 @@ def characterCreation():
 def loading():
     Thread(
         target=lambda: (
-            reference(),
             makeStory()
         )
     ).start()
